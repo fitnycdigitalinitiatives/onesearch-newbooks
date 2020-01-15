@@ -74,7 +74,6 @@ with urllib.request.urlopen(url) as response:
 
         formatted_records.append(formatted_record)
 
-    filename = "json/new-books.json"
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    filename = "gh-pages/new-books.json"
     with open(filename, "w") as outfile:
         json.dump(formatted_records, outfile, indent=4)
