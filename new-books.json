@@ -1,169 +1,226 @@
 [
     {
-        "Column0": "0",
-        "Column1": "Brownie, Barbara, author.",
-        "Column2": "1472596196; 9781472596192; 1472596188; 9781472596185; 9781472596215; 1472596218; 9781472596222; 1472596226",
-        "Column3": "Book",
-        "Column4": "990001560770204829",
-        "Column5": "Acts of undressing : politics, eroticism, and discarded clothing /",
-        "Column6": "GT525 .B76 2017",
-        "Column7": "2020-01-14",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Acts of undressing : politics, eroticism, and discarded clothing",
+        "author": "Brownie, Barbara, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001560770204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT525 .B76 2017",
+        "cover-url": "http://books.google.com/books/content?id=luu0DAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-14"
     },
     {
-        "Column0": "0",
-        "Column2": "8859607868; 9788859607861",
-        "Column3": "Book",
-        "Column4": "990001298640204829",
-        "Column5": "The climate is changing /",
-        "Column6": "N7433.9 .C58 2010",
-        "Column7": "2020-01-14",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "The climate is changing",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001298640204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N7433.9 .C58 2010",
+        "cover-url": "",
+        "created": "2020-01-14"
     },
     {
-        "Column0": "0",
-        "Column1": "Mathews, Daniel, 1948- author.",
-        "Column2": "1640091351; 9781640091351",
-        "Column3": "Book",
-        "Column4": "991687400304829",
-        "Column5": "Trees in trouble : wildfires, infestations, and climate change /",
-        "Column6": "SB763.W38 M38 2020",
-        "Column7": "2020-01-14",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Trees in trouble : wildfires, infestations, and climate change",
+        "author": "Mathews, Daniel, 1948- author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687400304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "SB763.W38 M38 2020",
+        "cover-url": "http://books.google.com/books/content?id=PgyixAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-14"
     },
     {
-        "Column0": "0",
-        "Column1": "Orsi Landini, Roberta. author.",
-        "Column2": "8856404060; 9788856404067",
-        "Column3": "Book",
-        "Column4": "991686100004829",
-        "Column5": "Moda a Firenze, 1540-1580 : lo stile di Eleonora di Toledo e la sua influenza = Eleonora di Toledo's style and influence /",
-        "Column6": "GT971.T8 O77 2019",
-        "Column7": "2020-01-10",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Moda a Firenze, 1540-1580 : lo stile di Eleonora di Toledo e la sua influenza = Eleonora di Toledo's style and influence",
+        "author": "Orsi Landini, Roberta. author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686100004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT971.T8 O77 2019",
+        "cover-url": "http://books.google.com/books/content?id=LC69wwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-10"
     },
     {
-        "Column0": "0",
-        "Column1": "Piotrowski, Christine M., 1947- author.",
-        "Column2": "1118090799; 9781118090794; 9781118415955; 1118415957; 9781118419069; 1118419065",
-        "Column3": "Book",
-        "Column4": "991686699604829",
-        "Column5": "Professional practice for interior designers /",
-        "Column6": "NK2116.2 .P56 2014",
-        "Column7": "2020-01-10",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Professional practice for interior designers",
+        "author": "Piotrowski, Christine M., 1947- author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686699604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK2116.2 .P56 2014",
+        "cover-url": "http://books.google.com/books/content?id=86ICZjg0H_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-10"
     },
     {
-        "Column0": "0",
-        "Column1": "Penny, Louise, author.",
-        "Column2": "1250066212; 9781250066213; 1250257832; 9781250257833; 9781466873711; 146687371X",
-        "Column3": "Book",
-        "Column4": "991686499404829",
-        "Column5": "A better man /",
-        "Column6": "PR9199.4.P464 B48 2019",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "A better man",
+        "author": "Penny, Louise, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686499404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PR9199.4.P464 B48 2019",
+        "cover-url": "http://books.google.com/books/content?id=xs1swgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Hooks, Bell, 1952- author.",
-        "Column2": "0060959479; 9780060959470; 0688168442; 9780688168445",
-        "Column3": "Book",
-        "Column4": "991686500004829",
-        "Column5": "All about love : new visions /",
-        "Column6": "BF575.L8 H655 2018",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "All about love : new visions",
+        "author": "Hooks, Bell, 1952- author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686500004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BF575.L8 H655 2018",
+        "cover-url": "http://books.google.com/books/content?id=MYim_gaQC2gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Martin, Andrew, 1985- author.",
-        "Column2": "9781250215017; 1250215013",
-        "Column3": "Book",
-        "Column4": "991686499304829",
-        "Column5": "Early work /",
-        "Column6": "PS3613.A77777 E17 2019",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Early work",
+        "author": "Martin, Andrew, 1985- author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686499304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3613.A77777 E17 2019",
+        "cover-url": "",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Small, David, 1945- author, artist.",
-        "Column2": "0871403153; 9780871403155; 0780443977; 9780780443976",
-        "Column3": "Book",
-        "Column4": "991686499204829",
-        "Column5": "Home after dark : a novel /",
-        "Column6": "PZ7.7.S556 Ho 2018",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Home after dark : a novel",
+        "author": "Small, David, 1945- author, artist.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686499204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PZ7.7.S556 Ho 2018",
+        "cover-url": "http://books.google.com/books/content?id=SpPJtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Moshfegh, Ottessa, author.",
-        "Column2": "0525522115; 9780525522119; 1787330419; 9781787330412; 9780525522133; 0525522131; 9780525522126; 0525522123",
-        "Column3": "Book",
-        "Column4": "991686499904829",
-        "Column5": "My year of rest and relaxation /",
-        "Column6": "PS3613.O77936 M9 2018",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "My year of rest and relaxation",
+        "author": "Moshfegh, Ottessa, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686499904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3613.O77936 M9 2018",
+        "cover-url": "http://books.google.com/books/content?id=Uy8ltAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Froderberg, Susan, author.",
-        "Column2": "0374217688; 9780374217686",
-        "Column3": "Book",
-        "Column4": "991686499804829",
-        "Column5": "Mysterium /",
-        "Column6": "PS3606.R5827 M97 2018",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Mysterium",
+        "author": "Froderberg, Susan, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686499804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3606.R5827 M97 2018",
+        "cover-url": "",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Towles, Amor.",
-        "Column2": "0143121162; 9780143121169; 0670022691; 9780670022694",
-        "Column3": "Book",
-        "Column4": "991686500104829",
-        "Column5": "Rules of civility /",
-        "Column6": "PS3620.O945 R85 2012",
-        "Column7": "2020-01-09",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Rules of civility",
+        "author": "Towles, Amor.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686500104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3620.O945 R85 2012",
+        "cover-url": "http://books.google.com/books/content?id=gUACDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-09"
     },
     {
-        "Column0": "0",
-        "Column1": "Gross, Steve.",
-        "Column2": "9780847824687; 0847824683",
-        "Column3": "Book",
-        "Column4": "991686099404829",
-        "Column5": "Catskills country style /",
-        "Column6": "NK2002 .G766 2002",
-        "Column7": "2020-01-08",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "Catskills country style",
+        "author": "Gross, Steve.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686099404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK2002 .G766 2002",
+        "cover-url": "",
+        "created": "2020-01-08"
     },
     {
-        "Column0": "0",
-        "Column1": "Beauvoir, Simone de, 1908-1986.",
-        "Column2": "030727778X; 9780307277787",
-        "Column3": "Book",
-        "Column4": "991686099504829",
-        "Column5": "The second sex /",
-        "Column6": "HQ1208 .B352 2011",
-        "Column7": "2020-01-08",
-        "Column8": "ZMAIN",
-        "Column9": "None"
+        "title": "The second sex",
+        "author": "Beauvoir, Simone de, 1908-1986.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686099504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HQ1208 .B352 2011",
+        "cover-url": "http://books.google.com/books/content?id=_hywlrNuYvIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-08"
+    },
+    {
+        "title": "Explorations at Scripps Institution of Oceanography.",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686000304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GC58 .E973 2003",
+        "cover-url": "",
+        "created": "2020-01-07"
+    },
+    {
+        "title": "I'll never tell",
+        "author": "McKenzie, Catherine, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686100204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3613.C5558 I45 2019",
+        "cover-url": "http://books.google.com/books/content?id=-TBQugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-07"
+    },
+    {
+        "title": "Pictorial embroidery in England : a critical history of needlepainting and Berlin Work",
+        "author": "Desnoyers, Rosika, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT778.C3 D475 2019",
+        "cover-url": "http://books.google.com/books/content?id=OCCFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-07"
+    },
+    {
+        "title": "Contemporary jewellery in Portugal : from the avant-garde  of the 1960's to the early 21st century",
+        "author": "Filipe, Cristina, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685399104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK7310 .F548 2019",
+        "cover-url": "http://books.google.com/books/content?id=tiFtxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Designing transparency : glass in modern design",
+        "author": "Toromanoff, Agata.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TS171.4 .T67 2019",
+        "cover-url": "http://books.google.com/books/content?id=61z1wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Dior : moments of joy",
+        "author": "Teodori, Muriel, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685399404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT505.D5 T46 2019",
+        "cover-url": "http://books.google.com/books/content?id=VLFmxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "I am cute dresses : 25 simple designs to sew",
+        "author": "Watanabe, Sato.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685099304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT560 .W36713 2011",
+        "cover-url": "http://books.google.com/books/content?id=mfU6YgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "John Galliano for Dior",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685399604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT505.G365 J64 2019",
+        "cover-url": "http://books.google.com/books/content?id=9mf0wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Mokuba ribbon catalogue.",
+        "author": "Mokuba (Firm)",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001583650204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT555 .M64 1989",
+        "cover-url": "",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Moonfall : the life and art of George Stavrinos",
+        "author": "Hamann, Brad, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685098504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT509 .H333 2010",
+        "cover-url": "",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Portrait of a woman in silk : hidden histories of the British Atlantic world",
+        "author": "Anishanslin, Zara, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TS1357 .A55 2016",
+        "cover-url": "http://books.google.com/books/content?id=t9noDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Publish your photography book : revised and updated",
+        "author": "Himes, Darius, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "Z286.P47 H56 2014",
+        "cover-url": "http://books.google.com/books/content?id=BKZpngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Ralph Lauren : in his own fashion",
+        "author": "Flusser, Alan J., author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991684399504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT505 .L38 F58 2019",
+        "cover-url": "",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "The glossy years : magazines, museums and selective memoirs",
+        "author": "Coleridge, Nicholas, 1957- author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN4874.C643 A3 2019",
+        "cover-url": "http://books.google.com/books/content?id=UuU_wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
     }
 ]
