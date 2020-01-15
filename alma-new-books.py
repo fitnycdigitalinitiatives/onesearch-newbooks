@@ -74,5 +74,5 @@ with urllib.request.urlopen(url) as response:
 
         formatted_records.append(formatted_record)
 
-    with open("new-books.json", "w") as outfile:
+    with open("json/new-books.json", "w") as outfile:
         json.dump(formatted_records, outfile, indent=4)
