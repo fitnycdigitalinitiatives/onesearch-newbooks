@@ -74,5 +74,7 @@ with urllib.request.urlopen(url) as response:
 
         formatted_records.append(formatted_record)
 
-    with open("json/new-books.json", "w") as outfile:
+    filename = "json/new-books.json"
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    with open(filename, "w") as outfile:
         json.dump(formatted_records, outfile, indent=4)
