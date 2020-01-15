@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import urllib
+import os
 import xmltodict
 import pprint
 import json
