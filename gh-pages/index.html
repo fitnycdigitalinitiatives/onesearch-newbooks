@@ -9,16 +9,33 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- Owl CSS -->
     <link rel="stylesheet" href="owl/owl.carousel.min.css">
-    <!-- CSS -->
+    <!-- Main CSS -->
     <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" type="text/css">
 
     <title>New Books at the FIT Library</title>
   </head>
   <body>
     <div class="jumbotron jumbotron-fluid">
       <div class="container-fluid">
-        <h1 class="display-4 text-center">New Books at FIT</h1>
-        <div class="owl-carousel">
+        <div class="row align-items-center justify-content-around">
+          <div class="col-auto d-none d-md-block order-first">
+    				<button type="button" class="btn btn-dark px-3" id="previous">
+    					<i class="fas fa-chevron-left text-light"></i>
+    					<span class="sr-only">Previous tags</span>
+    				</button>
+    			</div>
+          <div class="col-auto d-none d-md-block order-last">
+    				<button type="button" class="btn btn-dark px-3" id="next">
+    					<i class="fas fa-chevron-right text-light"></i>
+    					<span class="sr-only">Next tags</span>
+    				</button>
+    			</div>
+          <div class="col overflow-hidden">
+            <div class="owl-carousel">
+            </div>
+          </div>
         </div>
       </div>
     </div>
