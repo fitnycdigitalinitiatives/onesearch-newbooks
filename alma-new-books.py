@@ -34,7 +34,6 @@ def isbn_lookup(ISBNs):
                         "thumbnail"
                     ]
                     return thumbnail
-                    print(thumbnail)
                 except Exception as e:
                     thumbnail = ""
     return ""

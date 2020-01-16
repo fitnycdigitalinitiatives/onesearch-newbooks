@@ -1,0 +1,7 @@
+.owl-stage {
+  display: flex;
+  align-items: center;
+}
+.owl-item .card img {
+  width: 150px;
+}
