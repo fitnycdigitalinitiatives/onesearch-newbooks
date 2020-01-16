@@ -1,10 +1,66 @@
 [
     {
+        "title": "A fire story",
+        "author": "Fies, Brian, author, artist.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687298404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6727.F483 F57 2019",
+        "cover-url": "http://books.google.com/books/content?id=dShSuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-15"
+    },
+    {
+        "title": "About face : performing race in fashion and theater",
+        "author": "Kondo, Dorinne K.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001137200204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "E184.O6 K65 1997",
+        "cover-url": "http://books.google.com/books/content?id=HGqXQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-15"
+    },
+    {
+        "title": "Advertising as culture",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001421840204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HF5821 .A38 2013",
+        "cover-url": "http://books.google.com/books/content?id=7i1HhEhPu94C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-15"
+    },
+    {
+        "title": "Bad girls",
+        "author": "De Campi, Alex, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687298504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6737.D4 B33 2018",
+        "cover-url": "http://books.google.com/books/content?id=sCS3tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-15"
+    },
+    {
+        "title": "I was their American dream : a graphic memoir",
+        "author": "Gharib, Malaka, author, illustrator.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687298304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6727.G5 Z46 2019",
+        "cover-url": "http://books.google.com/books/content?id=QPqPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-15"
+    },
+    {
         "title": "Acts of undressing : politics, eroticism, and discarded clothing",
         "author": "Brownie, Barbara, author.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001560770204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GT525 .B76 2017",
         "cover-url": "http://books.google.com/books/content?id=luu0DAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-14"
+    },
+    {
+        "title": "Clarence John Laughlin : prophet without honor",
+        "author": "Meek, A. J.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687299404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TR140.L332 M44 2007",
+        "cover-url": "http://books.google.com/books/content?id=w6AP4VUGdcoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-14"
+    },
+    {
+        "title": "Dress and clothing in the Hebrew Bible : for all her household are clothed in crimson",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687399804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BS680.C65 D74 2019",
+        "cover-url": "http://books.google.com/books/content?id=D465vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-01-14"
     },
     {
@@ -16,12 +72,28 @@
         "created": "2020-01-14"
     },
     {
+        "title": "The golden thread : how fabric changed history",
+        "author": "St. Clair, Kassia, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991683200104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TS1765 .S7 2019",
+        "cover-url": "http://books.google.com/books/content?id=NzD1wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-14"
+    },
+    {
         "title": "Trees in trouble : wildfires, infestations, and climate change",
         "author": "Mathews, Daniel, 1948- author.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991687400304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "SB763.W38 M38 2020",
-        "cover-url": "",
+        "cover-url": "http://books.google.com/books/content?id=PgyixAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-01-14"
+    },
+    {
+        "title": "How to give up plastic : a guide to changing the world, one plastic bottle at a time",
+        "author": "McCallum, Will, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686699404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TD171.7 .M3739 2019",
+        "cover-url": "http://books.google.com/books/content?id=CLJnvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-10"
     },
     {
         "title": "Moda a Firenze, 1540-1580 : lo stile di Eleonora di Toledo e la sua influenza = Eleonora di Toledo's style and influence",
@@ -37,6 +109,14 @@
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686699604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NK2116.2 .P56 2014",
         "cover-url": "http://books.google.com/books/content?id=86ICZjg0H_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-01-10"
+    },
+    {
+        "title": "Walking on lava : selected works for uncivilised times",
+        "author": "Dark Mountain Project, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686699504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS509.N3 D37 2017",
+        "cover-url": "http://books.google.com/books/content?id=D2cpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2020-01-10"
     },
     {
@@ -96,6 +176,14 @@
         "created": "2020-01-09"
     },
     {
+        "title": "The secret charm of a perfumed house",
+        "author": "Colard, Gre\u0301goire.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686499104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HD9999.P3934 C373 1984",
+        "cover-url": "",
+        "created": "2020-01-09"
+    },
+    {
         "title": "Catskills country style",
         "author": "Gross, Steve.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686099404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -110,6 +198,14 @@
         "call-number": "HQ1208 .B352 2011",
         "cover-url": "http://books.google.com/books/content?id=_hywlrNuYvIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2020-01-08"
+    },
+    {
+        "title": "Auto che passione! : interazione fra grafica e design = Cars what passion! : Interaction between graphic art and design",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686100104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TL15 .A98 2018",
+        "cover-url": "http://books.google.com/books/content?id=DQrcvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-07"
     },
     {
         "title": "Explorations at Scripps Institution of Oceanography.",
@@ -128,12 +224,52 @@
         "created": "2020-01-07"
     },
     {
+        "title": "Moda a Firenze, 1540-1580 : lo stile di Eleonora di Toledo e la sua influenza = Eleonora di Toledo's style and influence",
+        "author": "Orsi Landini, Roberta. author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686100004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT971.T8 O77 2019",
+        "cover-url": "http://books.google.com/books/content?id=LC69wwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-07"
+    },
+    {
         "title": "Pictorial embroidery in England : a critical history of needlepainting and Berlin Work",
         "author": "Desnoyers, Rosika, author.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT778.C3 D475 2019",
         "cover-url": "http://books.google.com/books/content?id=OCCFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-01-07"
+    },
+    {
+        "title": "Unfolding fashion tech : pioneers of bright futures .",
+        "author": "Toeters, Marina, 1982- editor.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991686099804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TS1767.T64 U54 2019",
+        "cover-url": "",
+        "created": "2020-01-07"
+    },
+    {
+        "title": "Cars accelerating the modern world",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685399804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HE5611 .C37 2019",
+        "cover-url": "http://books.google.com/books/content?id=7ADtwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Color",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TR655 .H373 2019",
+        "cover-url": "http://books.google.com/books/content?id=_C_awwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Colour in nature : a study in biology",
+        "author": "Newbigin, Marion I. 1869-1934. (Marion Isabel),",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "QL767 .N4 2009",
+        "cover-url": "",
+        "created": "2020-01-03"
     },
     {
         "title": "Contemporary jewellery in Portugal : from the avant-garde  of the 1960's to the early 21st century",
@@ -157,6 +293,22 @@
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685399404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT505.D5 T46 2019",
         "cover-url": "http://books.google.com/books/content?id=VLFmxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Dreams unreal : the genesis of the psychedelic rock poster",
+        "author": "O'Brien, Titus, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC1849.R63 O27 2020",
+        "cover-url": "",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Galliano : spectacular fashion",
+        "author": "Taylor, Kerry, author.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT505.G365 T39 2019",
+        "cover-url": "http://books.google.com/books/content?id=S1V6swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-01-03"
     },
     {
@@ -192,6 +344,22 @@
         "created": "2020-01-03"
     },
     {
+        "title": "Moroni : the riches of Renaissance portraiture",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991679000304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "ND1329.M655 A4 2019",
+        "cover-url": "http://books.google.com/books/content?id=XgcEugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Museum of capitalism",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N8225.M56 M87 2019",
+        "cover-url": "http://books.google.com/books/content?id=oB0DwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
         "title": "Portrait of a woman in silk : hidden histories of the British Atlantic world",
         "author": "Anishanslin, Zara, author.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -221,6 +389,14 @@
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685397704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PN4874.C643 A3 2019",
         "cover-url": "http://books.google.com/books/content?id=UuU_wQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-01-03"
+    },
+    {
+        "title": "Win out : the best of sports graphic design and branding",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991685398104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC1002.S66 W55 2019",
+        "cover-url": "http://books.google.com/books/content?id=prMxvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-01-03"
     }
 ]
