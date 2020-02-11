@@ -14,3 +14,9 @@ deploy:
   keep_history: true
   on:
     branch: master
+notifications:
+  email:
+    recipients:
+      - joseph_anderson@fitnyc.edu
+    on_success: never # default: change
+    on_failure: always # default: always
