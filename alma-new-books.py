@@ -23,7 +23,7 @@ def isbn_lookup(ISBNs):
             + gb_api_key
             + "&q=isbn:"
             + ISBN
-            + "&fields=items/id,items/volumeInfo(title,description,previewLink,imageLinks)&maxResults=1"
+            + "&fields=totalItems,items/id,items/volumeInfo(title,description,previewLink,imageLinks)&maxResults=1"
         )
         with urllib.request.urlopen(gb_url) as gb_response:
             gb_api = gb_response.read()
