@@ -1,5 +1,37 @@
 [
     {
+        "title": "\"New York. Just like I pictured it.\"",
+        "author": "",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991691400304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "ND237.C4946 A4 2014",
+        "cover-url": "",
+        "created": "2020-02-11"
+    },
+    {
+        "title": "Bayard Rustin as art collector : a study of selections of African, Asian and European art in the collection of a prominent African American",
+        "author": "Shaw, Thomas M.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991691400004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N5220.R97 S536 1989",
+        "cover-url": "",
+        "created": "2020-02-11"
+    },
+    {
+        "title": "Creating minds : an anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi",
+        "author": "Gardner, Howard, 1943-",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990001047870204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BF408 .G33 1993",
+        "cover-url": "http://books.google.com/books/content?id=YEbuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-02-11"
+    },
+    {
+        "title": "Views and visions : American landscape before 1830",
+        "author": "Nygren, Edward J.",
+        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991691400104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N8214.5.U6 N9 1986",
+        "cover-url": "http://books.google.com/books/content?id=bRDqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-02-11"
+    },
+    {
         "title": "Howard Tangye",
         "author": "Tangye, Howard, artist.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991691100204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -332,7 +364,7 @@
         "author": "Mastropolo, Frank, author.",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991688898004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GT3911.N72 M38 2019",
-        "cover-url": "",
+        "cover-url": "http://books.google.com/books/content?id=-C5SwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-01-28"
     },
     {
@@ -340,7 +372,7 @@
         "author": "Wilson, Eva, 1925-",
         "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991688798104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NK1270 .W55 1988",
-        "cover-url": "",
+        "cover-url": "http://books.google.com/books/content?id=AOJGUsFgVEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2020-01-28"
     },
     {
@@ -430,13 +462,5 @@
         "call-number": "NK2115.5 .V53 B36 1991",
         "cover-url": "",
         "created": "2020-01-28"
-    },
-    {
-        "title": "Oreficeria Del Settecento",
-        "author": "Mascetti, Daniela",
-        "onesearch-url": "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991688798304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "Unknown",
-        "cover-url": "",
-        "created": "2020-01-27"
     }
 ]
