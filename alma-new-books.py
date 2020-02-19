@@ -34,7 +34,7 @@ def isbn_lookup(ISBNs):
                     thumbnail = gb_json_data["items"][0]["volumeInfo"]["imageLinks"][
                         "thumbnail"
                     ]
-                    return thumbnail
+                    return thumbnail.replace("http:", "https:")
                 except Exception as e:
                     thumbnail = ""
     return ""
