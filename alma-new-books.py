@@ -60,7 +60,7 @@ with urllib.request.urlopen(url) as response:
             formatted_record["author"] = record["Column1"]
         if "Column4" in record:
             formatted_record["onesearch-url"] = (
-                "https://suny-fit.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma"
+                "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma"
                 + record["Column4"]
                 + "&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en"
             )
