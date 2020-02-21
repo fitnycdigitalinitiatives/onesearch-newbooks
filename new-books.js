@@ -41,9 +41,6 @@ $(document).ready(function() {
       var minimum = event.relatedTarget.minimum(),
         maximum = event.relatedTarget.maximum(),
         current = event.relatedTarget.current();
-      console.log(minimum);
-      console.log(maximum);
-      console.log(current);
       if (current <= minimum) {
         $('#previous').prop('disabled', true);
       } else {
