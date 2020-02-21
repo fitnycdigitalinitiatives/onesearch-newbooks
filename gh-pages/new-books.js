@@ -31,11 +31,29 @@ $(document).ready(function() {
     var owl = $('.owl-carousel');
     owl.owlCarousel({
       margin: 30,
-      loop: true,
+      loop: false,
       autoWidth: true,
       items: 10,
       nav: false,
       dots: false
+    });
+    owl.on('changed.owl.carousel', function(event) {
+      var minimum = event.relatedTarget.minimum(),
+        maximum = event.relatedTarget.maximum(),
+        current = event.relatedTarget.current();
+      console.log(minimum);
+      console.log(maximum);
+      console.log(current);
+      if (current <= minimum) {
+        $('#previous').prop('disabled', true);
+      } else {
+        $('#previous').prop('disabled', false);
+      }
+      if (current >= maximum) {
+        $('#next').prop('disabled', true);
+      } else {
+        $('#next').prop('disabled', false);
+      }
     });
     // Go to the next item
     $('#next').click(function() {
