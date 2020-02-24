@@ -35,7 +35,36 @@ $(document).ready(function() {
       autoWidth: true,
       items: 10,
       nav: false,
-      dots: false
+      dots: false,
+      responsive: {
+        0: {
+          slideBy: 1
+        },
+        420: {
+          slideBy: 2
+        },
+        570: {
+          slideBy: 3
+        },
+        725: {
+          slideBy: 4
+        },
+        880: {
+          slideBy: 5
+        },
+        1035: {
+          slideBy: 6
+        },
+        1190: {
+          slideBy: 7
+        },
+        1345: {
+          slideBy: 8
+        },
+        1500: {
+          slideBy: 9
+        },
+      }
     });
     owl.on('changed.owl.carousel', function(event) {
       var minimum = event.relatedTarget.minimum(),
