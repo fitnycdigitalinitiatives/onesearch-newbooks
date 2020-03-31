@@ -4,7 +4,7 @@ $(document).ready(function() {
     $.each(data, function(i, book) {
       if (book["cover-url"] != "") {
         var slide = `
-        <a class="card" target="_top" href="` + book["onesearch-url"] + `">
+        <a class="card" target="_top" href="` + book["onesearch-url"] + `" data-toggle="tooltip" data-placement="bottom" title="` + book["title"] + `">
           <img src="` + book["cover-url"] + `" alt="` + book["title"] + `" class="card-img">
         </a>
         `
@@ -91,5 +91,8 @@ $(document).ready(function() {
       // Parameters has to be in square bracket '[]'
       owl.trigger('prev.owl.carousel');
     });
+    $(function() {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
   });
 });
