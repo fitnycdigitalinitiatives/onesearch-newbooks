@@ -1,5 +1,11 @@
 [
     {
+        "title": "Tell Me Who You Are",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991697599304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=qryWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
         "title": "5 Years of Must Reads From HBR: 2019 Edition",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991696850504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -1126,17 +1132,5 @@
         "author": "Gothelf, Jeff",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991696868204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=bEzXCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-        "title": "Seven steps to leading a gender-balanced business",
-        "author": "Wittenberg-Cox, Avivah, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991696897504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=stnbAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-        "title": "Six simple rules : how to manage complexity without getting complicated",
-        "author": "Morieux, Yves, 1960- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991696883304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=ac3bAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
 ]
