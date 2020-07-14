@@ -96,6 +96,12 @@
         "cover-url": "https://books.google.com/books/content?id=6IXjvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
+        "title": "Color studies",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695991504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=EgH3vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Complete guide to size specification and technical design",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695987004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -114,16 +120,34 @@
         "cover-url": "https://books.google.com/books/content?id=DXYrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
+        "title": "Cracking the whip : essays on design and its side effects",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695993704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=Nva3vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Design process",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695985804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=nkLOvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
+        "title": "Designing : an introduction",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695985904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=SqAEvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Designing a knitwear collection : from inspiration to finished garments",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695988704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=ZCzgvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Designing with color : concepts and applications",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695994104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=J-XXvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Designing with smart textiles",
@@ -484,6 +508,12 @@
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695990804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=Vk3zvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Textiles : concepts and principles",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991695986904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=YoPGvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Textiles and fashion : exploring printed textiles, knitwear, embroidery, menswear and womenswear",
