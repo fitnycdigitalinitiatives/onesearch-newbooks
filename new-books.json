@@ -102,12 +102,6 @@
         "cover-url": "https://books.google.com/books/content?id=SqAEvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-        "title": "Designing a knitwear collection : from inspiration to finished garments",
-        "author": "Donofrio-Ferrezza, Lisa, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702697404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=ZCzgvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
         "title": "Designing with color : concepts and applications",
         "author": "Dorosz, Chris, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702697204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -222,6 +216,12 @@
         "cover-url": "https://books.google.com/books/content?id=Q4D6vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
+        "title": "Fashion sketchbook",
+        "author": "Abling, Bina, author, illustrator, speaker.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702612004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=cz1VyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Fashion supply chain management",
         "author": "Londrigan, Michael P., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702614004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -232,6 +232,12 @@
         "author": "Liechty, Elizabeth G., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702636904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=CMjJvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Functional clothing design : from sportswear to spacesuits",
+        "author": "Watkins, Susan M., 1943- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702636404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=4NbIvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Global sourcing in the textile and apparel industry",
@@ -262,6 +268,12 @@
         "author": "Johnson, Ingrid, 1951- author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702632604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=0Z39vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Knitwear : an introduction to contemporary design",
+        "author": "Sissons, Juliana, 1959- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702612504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=jNqvzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Know your fashion accessories",
