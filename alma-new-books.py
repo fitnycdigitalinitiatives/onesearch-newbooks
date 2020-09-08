@@ -13,7 +13,7 @@ gb_api_key = os.environ["GB_API_KEY"]
 path = (
     "/shared/Fashion Institute of Technology 01SUNY_FIT/Reports/20191213-new-book-list"
 )
-params = {"apikey": api_key, "path": path, "limit": "1000", "col_names": "true"}
+params = {"apikey": api_key, "path": path, "limit": "200", "col_names": "true"}
 url = base_url + "?" + urllib.parse.urlencode(params)
 
 # function to lookup Google Books API by ISBN
@@ -72,7 +72,8 @@ with urllib.request.urlopen(url) as response:
         if "Column7" in record:
             formatted_record["created"] = record["Column7"]
 
-        formatted_records.append(formatted_record)
+        if formatted_record["cover-url"] != "":
+            formatted_records.append(formatted_record)
 
     filename = "gh-pages/new-books.json"
     with open(filename, "w") as outfile:
