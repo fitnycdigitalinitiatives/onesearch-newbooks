@@ -1,11 +1,107 @@
 [
     {
-        "title": "Fashion, fads & fantasies : three decades of outrageous dressing",
-        "author": "Geiger, Lorraine Dossett.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712500204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT509 .G44 2012",
-        "cover-url": "https://books.google.com/books/content?id=fhJEmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2020-12-11"
+        "title": "Agent Sonya : Moscow's most daring wartime spy",
+        "author": "Macintyre, Ben, 1963- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "UB271.R9 M29 2020",
+        "cover-url": "https://books.google.com/books/content?id=N_JYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "An atlas of geographical wonders : from mountaintops to riverbeds : a selection of comparative maps and tableaux",
+        "author": "Bailly, Jean-Christophe, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712800204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GA300 .B2513 2019",
+        "cover-url": "https://books.google.com/books/content?id=16rCwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "Everything she touched : the life of Ruth Asawa",
+        "author": "Chase, Marilyn, 1949- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712799904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NB237.A82 C49 2020",
+        "cover-url": "https://books.google.com/books/content?id=hFn1xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "Frankissstein : a love story",
+        "author": "Winterson, Jeanette, 1959- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PR6073.I558 F73 2019",
+        "cover-url": "https://books.google.com/books/content?id=i2VrwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "Graphic design rules : 365 essential design dos and don'ts",
+        "author": "Adams, Sean, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712799704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC997 .A545 2020",
+        "cover-url": "https://books.google.com/books/content?id=GvdPyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "I, the divine : a novel in first chapters",
+        "author": "Alameddine, Rabih.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3551.L215 I3 2002",
+        "cover-url": "https://books.google.com/books/content?id=Hi4UcTx2nkkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "Make change : how to fight injustice, dismantle systemic oppression, and own our future",
+        "author": "King, Shaun, 1979- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "E185.615 .K52 2020",
+        "cover-url": "https://books.google.com/books/content?id=laWmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "Ottolenghi flavor",
+        "author": "Ottolenghi, Yotam, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TX801 .O84 2020",
+        "cover-url": "https://books.google.com/books/content?id=SGRIzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "Spirit of place : the making of a New England garden",
+        "author": "Noble, Bill, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "SB453.2.V4 N63 2020",
+        "cover-url": "https://books.google.com/books/content?id=e-mvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "The art of happiness : a handbook for living",
+        "author": "Bstan-\u02bcdzin-rgya-mtsho, Dalai Lama XIV, 1935- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712798004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BQ7935.B774 A78 2020",
+        "cover-url": "https://books.google.com/books/content?id=LZXuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "The art of wearable flowers : floral rings, bracelets, earrings, necklaces, and more",
+        "author": "McLeary, Susan, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712900304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "SB449.48 .M35 2020",
+        "cover-url": "https://books.google.com/books/content?id=7dWnxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "The language of thieves : my family's obsession with a secret code the Nazis tried to eliminate",
+        "author": "Puchner, Martin, 1969- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712797704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PF5995 .P835 2020",
+        "cover-url": "https://books.google.com/books/content?id=hrdBzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2020-12-17"
+    },
+    {
+        "title": "This life : secular faith and spiritual freedom",
+        "author": "Ha\u0308gglund, Martin, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712798104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BD411 .H34 2019",
+        "cover-url": "https://books.google.com/books/content?id=NLqHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2020-12-17"
     },
     {
         "title": "Women of blaxploitation : how the black action film heroine changed American popular culture",
@@ -44,7 +140,7 @@
         "author": "Como, Michael.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991709999504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "BL2202.3 .C66 2009",
-        "cover-url": "https://books.google.com/books/content?id=-UNEhdX6ePMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=ULgsAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-11-06"
     },
     {
@@ -76,7 +172,7 @@
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991709999604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GT511 .T56 2020",
-        "cover-url": "https://books.google.com/books/content?id=6krrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=7ErrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-11-03"
     },
     {
@@ -268,7 +364,7 @@
         "author": "Rosenberg, Chaim M.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991708298104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "HD9727.M4 R67 2007",
-        "cover-url": "https://books.google.com/books/content?id=65DtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=NBK2AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-10-22"
     },
     {
