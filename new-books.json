@@ -148,7 +148,7 @@
         "author": "French, Tana, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716899204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PR6106.R457 S42 2020",
-        "cover-url": "https://books.google.com/books/content?id=MA78DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=dHs6zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2021-03-04"
     },
     {
@@ -368,6 +368,14 @@
         "created": "2021-02-17"
     },
     {
+        "title": "Pierre Guariche",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716498804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK2049.Z9 G832 2020",
+        "cover-url": "https://books.google.com/books/content?id=UYZyxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2021-02-17"
+    },
+    {
         "title": "Race after technology : abolitionist tools for the New Jim Code",
         "author": "Benjamin, Ruha, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716499504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -408,7 +416,7 @@
         "created": "2021-02-17"
     },
     {
-        "title": "The hidden facts of fashion : fun facts about fashionary.",
+        "title": "The hidden facts of fashion.",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716600204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT507 .H536 2020",
@@ -748,7 +756,7 @@
         "author": "Nars, Franc\u0327ois.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991683400304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TR681.F3 N37 1999",
-        "cover-url": "https://books.google.com/books/content?id=uuJIPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=2BsLAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2021-02-11"
     },
     {
@@ -1044,7 +1052,7 @@
         "author": "Ewins, Rod.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001246150204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GN432 .E95 2009",
-        "cover-url": "https://books.google.com/books/content?id=O40BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=tB4XAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-11-12"
     },
     {
@@ -1070,53 +1078,5 @@
         "call-number": "HD9940.A2 M4613 2020",
         "cover-url": "https://books.google.com/books/content?id=4krrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2020-11-03"
-    },
-    {
-        "title": "Kifwebe : a century of Songye and Luba masks",
-        "author": "Neyt, Franc\u0327ois, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991708399404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "GT1748.C75 N49 2019",
-        "cover-url": "https://books.google.com/books/content?id=fhCNxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2020-10-28"
-    },
-    {
-        "title": "Sikh heritage : a history of valour and devotion",
-        "author": "Shankar, Sondeep, photographer.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991708399304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "BL2017.6 .S53 2019",
-        "cover-url": "https://books.google.com/books/content?id=Qnx0xAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2020-10-28"
-    },
-    {
-        "title": "Sofreh : the art of Persian celebration",
-        "author": "Khosrowshahi, Maryam, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991708399804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "GT4874.A2 S64 2017",
-        "cover-url": "https://books.google.com/books/content?id=OEcoMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2020-10-28"
-    },
-    {
-        "title": "Tarsila do Amaral : cannibalizing modernism",
-        "author": "Tarsila, 1886-1973, artist.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991708399504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "ND359.T37 A4 2019",
-        "cover-url": "https://books.google.com/books/content?id=NbcGygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2020-10-28"
-    },
-    {
-        "title": "Visions of Hispanic world : treasures from the Hispanic Society : Museum & Library",
-        "author": "Codding, Mitchell, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991708399204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "N7101 .C644 2018",
-        "cover-url": "https://books.google.com/books/content?id=NohsxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2020-10-28"
-    },
-    {
-        "title": "David Hammons : Bliz-aard Ball Sale",
-        "author": "Filipovic, Elena, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991711800304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "N6537.H3455 F55 2019",
-        "cover-url": "https://books.google.com/books/content?id=jqZADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2020-10-27"
     }
 ]
