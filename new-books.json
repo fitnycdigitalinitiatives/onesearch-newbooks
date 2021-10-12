@@ -24,14 +24,6 @@
         "created": "2021-10-05"
     },
     {
-        "title": "My cool caravan : an inspirational guide to retro-style caravans",
-        "author": "Field-Lewis, Jane, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991742968904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TL297 .F45 2010",
-        "cover-url": "https://books.google.com/books/content?id=bwx2PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2021-10-05"
-    },
-    {
         "title": "Blue : in search of nature's rarest color",
         "author": "Kupferschmidt, Kai, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991743269804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -109,14 +101,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991741067304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NB237.W465 A35 2020",
         "cover-url": "https://books.google.com/books/content?id=fAQdtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2021-09-22"
-    },
-    {
-        "title": "P.LACE.S : looking through Flemish lace",
-        "author": "Andries, Nora, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991741067804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NK9402.5.B45 M63 2021",
-        "cover-url": "https://books.google.com/books/content?id=GSUDzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2021-09-22"
     },
     {
@@ -832,6 +816,14 @@
         "created": "2021-07-27"
     },
     {
+        "title": "Lost in reverie : art & illustration inspired by dreams",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991734669804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N8217.D74 L67 2021",
+        "cover-url": "https://books.google.com/books/content?id=vpmOzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2021-07-27"
+    },
+    {
         "title": "Luchita Hurtado",
         "author": "Obrist, Hans Ulrich, interviewer.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729588304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -989,6 +981,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729586804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "N7355.6 .W37 2021",
         "cover-url": "https://books.google.com/books/content?id=Lwz_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2021-07-27"
+    },
+    {
+        "title": "Wild flowers",
+        "author": "Meyerowitz, Joel, 1938- photographer, writer of afterword.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729588504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TR654 .M46385 2021",
+        "cover-url": "https://books.google.com/books/content?id=079-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2021-07-27"
     },
     {
@@ -1304,6 +1304,14 @@
         "created": "2021-07-22"
     },
     {
+        "title": "Stitch in bloom : botanical-inspired embroidery projects for you and your home",
+        "author": "Avedian, Lora.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729593304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT773 .A94 2021",
+        "cover-url": "https://books.google.com/books/content?id=RQDTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2021-07-22"
+    },
+    {
         "title": "Take your selfie seriously : the advanced selfie and self-portrait handbook",
         "author": "Amore, Sorelle, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729592704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -1517,14 +1525,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729597304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NK7481.5.S9 E46x 2015",
         "cover-url": "https://books.google.com/books/content?id=A4kCrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2021-07-21"
-    },
-    {
-        "title": "ME + CO : the selfies : 1972-2017",
-        "author": "Pigozzi, Jean C., photographer.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991729597504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TR680 .P53385 2017",
-        "cover-url": "https://books.google.com/books/content?id=-iKBAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2021-07-21"
     }
 ]
