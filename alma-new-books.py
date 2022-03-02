@@ -66,7 +66,7 @@ with urllib.request.urlopen(url) as response:
             )
         if "Column6" in record:
             formatted_record["call-number"] = record["Column6"]
-        if "Column2" in record:
+        if "Column2" in record and record["Column2"]:
             ISBNs = record["Column2"]
             formatted_record["cover-url"] = isbn_lookup(ISBNs)
         if "Column7" in record:
