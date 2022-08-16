@@ -193,7 +193,7 @@
     },
     {
         "title": "This must be the place : an oral history of Latin American artists in New York, 1965-1975",
-        "author": "Iglesias Lukin, Aim\u00e9, curator",
+        "author": "Iglesias Lukin, Aim\u00e9, author",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991786165104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "N6490.L84 T44 2022",
         "cover-url": "https://books.google.com/books/content?id=PPzTzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -277,14 +277,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991786165704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NA7461.7.A1 S76 2022",
         "cover-url": "https://books.google.com/books/content?id=uErIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2022-07-19"
-    },
-    {
-        "title": "Nick Cave : forothermore",
-        "author": "Cave, Nick, 1959- artist, interviewee.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991781267004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "N6537.C384 A4 2022",
-        "cover-url": "https://books.google.com/books/content?id=FEHLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-07-19"
     },
     {
@@ -757,14 +749,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991783466204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "N6953.B33 A4 2021",
         "cover-url": "https://books.google.com/books/content?id=gWd6zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2022-06-22"
-    },
-    {
-        "title": "Mary Reid Kelley & Patrick Kelley",
-        "author": "Reid Kelley, Mary, 1979- artist.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991783465504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "N6537.K424 A4 2021",
-        "cover-url": "https://books.google.com/books/content?id=rx_TzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-06-22"
     },
     {
@@ -1477,6 +1461,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991781569304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT175 .R384 2014",
         "cover-url": "https://books.google.com/books/content?id=Y7VvuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2022-06-09"
+    },
+    {
+        "title": "Picture this : Debbie Harry and Blondie",
+        "author": "Rock, Mick.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991781568804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "ML88.H34 R63 2004",
+        "cover-url": "https://books.google.com/books/content?id=hdJGSwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-06-09"
     }
 ]
