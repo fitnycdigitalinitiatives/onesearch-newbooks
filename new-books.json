@@ -164,7 +164,7 @@
         "author": "Chesnoff, Richard Z., 1937-",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991786667004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "D804.3 .C446 1999",
-        "cover-url": "https://books.google.com/books/content?id=wfpmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=wSqxAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-07-20"
     },
     {
@@ -221,14 +221,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991786166004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "N332.G33 B43199 2021",
         "cover-url": "https://books.google.com/books/content?id=LuZZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2022-07-19"
-    },
-    {
-        "title": "Brilliant bodies : fashioning courtly men in early Renaissance Italy",
-        "author": "McCall, Timothy, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991786166704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "GT1760 .M34 2022",
-        "cover-url": "https://books.google.com/books/content?id=eXh8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-07-19"
     },
     {
@@ -560,6 +552,14 @@
         "created": "2022-07-08"
     },
     {
+        "title": "Tailoring, traditional and contemporary techniques",
+        "author": "Ledbetter, N. Marie.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000148530204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT519.5 .L42",
+        "cover-url": "https://books.google.com/books/content?id=sRBpQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2022-07-08"
+    },
+    {
         "title": "Color right from the start : progressive lessons in seeing and understanding color",
         "author": "Page, Hilary.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991784466704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -800,6 +800,14 @@
         "created": "2022-06-22"
     },
     {
+        "title": "Victims of fashion : animal commodities in Victorian Britain",
+        "author": "Cowie, Helen author. (Helen Louise),",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991783465304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT737 .C75 2022",
+        "cover-url": "https://books.google.com/books/content?id=XWlHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2022-06-22"
+    },
+    {
         "title": "The art of museum exhibitions : how story and imagination create aesthetic experiences",
         "author": "Bedford, Leslie, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001511600204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -949,14 +957,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991782369804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NC878 .G57 1991",
         "cover-url": "https://books.google.com/books/content?id=vVdjQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2022-06-15"
-    },
-    {
-        "title": "In America : a lexicon of fashion",
-        "author": "Bolton, Andrew, 1966- author, curator.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991782469504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT504.4 .B65 2022",
-        "cover-url": "https://books.google.com/books/content?id=zCJsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2022-06-15"
     },
     {
@@ -1133,14 +1133,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991782467804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GV1834.5 .H37 2022",
         "cover-url": "https://books.google.com/books/content?id=fFmPzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2022-06-15"
-    },
-    {
-        "title": "The story is everything : mastering creative communication for business",
-        "author": "Loizou, Andreas, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991783467504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HF5718 .L65 2022",
-        "cover-url": "https://books.google.com/books/content?id=8RSZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-06-15"
     },
     {
@@ -1469,6 +1461,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991781568804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "ML88.H34 R63 2004",
         "cover-url": "https://books.google.com/books/content?id=hdJGSwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2022-06-09"
+    },
+    {
+        "title": "Selected poems of Langston Hughes.",
+        "author": "Hughes, Langston, 1902-1967.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991781570104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3515.U274 A6 1990",
+        "cover-url": "https://books.google.com/books/content?id=H1uMDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2022-06-09"
     }
 ]
