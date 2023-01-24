@@ -288,14 +288,6 @@
         "created": "2022-12-07"
     },
     {
-        "title": "Lifetime passes",
-        "author": "Blas, Terry, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991806463004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PN6727.B537 L54 2021",
-        "cover-url": "https://books.google.com/books/content?id=f_I8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2022-12-07"
-    },
-    {
         "title": "Policing the city : an ethno-graphic",
         "author": "Fassin, Didier, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991806462704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -564,7 +556,7 @@
         "author": "Butler, Octavia E., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991806466804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PS3552.U827 P37 2016",
-        "cover-url": "https://books.google.com/books/content?id=kmFOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=wVqQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-12-05"
     },
     {
@@ -572,7 +564,7 @@
         "author": "Butler, Octavia E., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991806466304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PS3552.U827 P38 2016",
-        "cover-url": "https://books.google.com/books/content?id=w1qQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=vmFOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-12-05"
     },
     {
@@ -776,7 +768,7 @@
         "created": "2022-11-29"
     },
     {
-        "title": "Gute form, boa forma : design no Brasil, 1947-1968 = Gute form, good design : design in Brazil, 1947-1968",
+        "title": "Gute form = boa forma : design no Brasil = good design : design in Brazil, 1947-1968",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991806064504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NK1433.A1 B63 2021",
@@ -1148,7 +1140,7 @@
         "author": "Stewart, Hilary, 1924-",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991803067504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "E78.N78 S764",
-        "cover-url": "https://books.google.com/books/content?id=85YszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=lb8tzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-11-16"
     },
     {
@@ -1366,5 +1358,13 @@
         "call-number": "HQ1063.7 .W37 2022",
         "cover-url": "https://books.google.com/books/content?id=hLOLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2022-11-09"
+    },
+    {
+        "title": "Christie's",
+        "author": "Powell, Nicholas.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991801167204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N8604.C57 P68 1999",
+        "cover-url": "https://books.google.com/books/content?id=1KoYnVxISEYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2022-11-08"
     }
 ]
