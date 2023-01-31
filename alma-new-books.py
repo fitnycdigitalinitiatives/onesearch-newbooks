@@ -6,6 +6,7 @@ import os
 import xmltodict
 import pprint
 import json
+import time
 
 base_url = "https://api-na.hosted.exlibrisgroup.com/almaws/v1/analytics/reports"
 api_key = os.environ["API_KEY"]
