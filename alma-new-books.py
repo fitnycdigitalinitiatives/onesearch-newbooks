@@ -27,6 +27,8 @@ def isbn_lookup(ISBNs):
             + "&fields=totalItems,items/id,items/volumeInfo(title,description,previewLink,imageLinks)&maxResults=1"
         )
         with urllib.request.urlopen(gb_url) as gb_response:
+            #sleep
+            time.sleep(0.7)
             gb_api = gb_response.read()
             gb_json_data = json.loads(gb_api)
             if "items" in gb_json_data:
