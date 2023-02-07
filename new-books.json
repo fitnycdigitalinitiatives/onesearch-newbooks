@@ -1,5 +1,37 @@
 [
     {
+        "title": "Food and fashion",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991812666204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT521 .F66 2022",
+        "cover-url": "https://books.google.com/books/content?id=sbJtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-31"
+    },
+    {
+        "title": "Heaven & earth",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991812665404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "QH46 .H35 2002",
+        "cover-url": "https://books.google.com/books/content?id=1pGGQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-31"
+    },
+    {
+        "title": "Secrets of digital illustration : a master class in commercial image-making",
+        "author": "Zeegen, Lawrence.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991812666104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N7433.8 .Z44 2007",
+        "cover-url": "https://books.google.com/books/content?id=FeRIvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-31"
+    },
+    {
+        "title": "Just Jerry : how drawing shaped my life : a memoir",
+        "author": "Pinkney, Jerry, author, illustrator.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991812667104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC975.5.P56 A2 2023",
+        "cover-url": "https://books.google.com/books/content?id=sbMrzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-30"
+    },
+    {
         "title": "Art & architecture of Cambodia",
         "author": "Jessup, Helen Ibbitson, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991812567604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -120,6 +152,14 @@
         "created": "2023-01-24"
     },
     {
+        "title": "Negrophobia : an urban parable",
+        "author": "James, Darius, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991812364304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3560.A37887 N4 2019",
+        "cover-url": "https://books.google.com/books/content?id=EOuODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-01-24"
+    },
+    {
         "title": "The art of Mesoamerica : from Olmec to Aztec",
         "author": "Miller, Mary Ellen.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001134770204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -142,6 +182,78 @@
         "call-number": "F2230.1.A7 S77 2012",
         "cover-url": "https://books.google.com/books/content?id=DIixuQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-01-17"
+    },
+    {
+        "title": "Frieren : beyond journey's end",
+        "author": "Yamada, Kanehito, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991811667604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN7690.J33 Y263413 2020",
+        "cover-url": "https://books.google.com/books/content?id=l0o9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-17"
+    },
+    {
+        "title": "Black paradox",
+        "author": "It\u014d, Junji, 1963- author, artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810864904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6790.J33 I85413 2022",
+        "cover-url": "https://books.google.com/books/content?id=ZD_uzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "Buried beneath the city : an archaeological history of New York",
+        "author": "Rothschild, Nan A., 1937- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810864704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "F128.39 .R68 2022",
+        "cover-url": "https://books.google.com/books/content?id=Ph5kzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "Embrace your size : my own body positivity",
+        "author": "Hara (Mangaka), author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810864504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BF697.5.B63 H37 2022",
+        "cover-url": "https://books.google.com/books/content?id=obEIzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "How to be weird : an off-kilter guide to living a one-of-a-kind life",
+        "author": "Wilson, Eric, 1967- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810865104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BF698.9.C74 W55 2022",
+        "cover-url": "https://books.google.com/books/content?id=x0pTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "Lost lad London.",
+        "author": "Shinya, Shima, author, artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810864404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6790.J33 S55 2022",
+        "cover-url": "https://books.google.com/books/content?id=b4D3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "Makeup is not (just) magic : a manga guide to cosmetics and skin care",
+        "author": "Rotta, Ikumi, author, artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810866104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "RA776.98 .R68 2019",
+        "cover-url": "https://books.google.com/books/content?id=aquQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "Read this to get smarter : about race, class, gender, disability & more",
+        "author": "Imani, Blair, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810864304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HN28 .I465 2021",
+        "cover-url": "https://books.google.com/books/content?id=__JEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-01-13"
+    },
+    {
+        "title": "Through the woods",
+        "author": "Carroll, Emily, author, illustrator.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810864004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6733.C369 T47 2014",
+        "cover-url": "https://books.google.com/books/content?id=s64inwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-13"
     },
     {
         "title": "Beauty, memory, unity : a theory of proportion in architecture and design",
@@ -168,27 +280,19 @@
         "created": "2023-01-10"
     },
     {
-        "title": "80s : all-American ads",
-        "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001135240204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NC998.5.A1 A58 2005",
-        "cover-url": "https://books.google.com/books/content?id=_YxlQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-01-05"
+        "title": "Lost lad London.",
+        "author": "Shinya, Shima, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991809666204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6790.J33 S549 2022",
+        "cover-url": "https://books.google.com/books/content?id=Bwa-zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-10"
     },
     {
-        "title": "90s : all-American ads",
+        "title": "Selbstverst\u00e4ndlich : Akris - a century in fashion",
         "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001613570204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NC998.5.A1 A159 2018",
-        "cover-url": "https://books.google.com/books/content?id=KO55swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-01-05"
-    },
-    {
-        "title": "Our lady of not asking why",
-        "author": "Kampa, Courtney, 1987- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991809167604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3611.A4687 A6 2017",
-        "cover-url": "https://books.google.com/books/content?id=DkQxvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-01-03"
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991809667504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT505.A399 S45 2022",
+        "cover-url": "https://books.google.com/books/content?id=0Z8tzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-01-09"
     }
 ]
