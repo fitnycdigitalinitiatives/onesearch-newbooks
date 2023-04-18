@@ -1,5 +1,45 @@
 [
     {
+        "title": "Architecture and health : guiding principles for practice",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991824566904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "RA967 .A6995 2020",
+        "cover-url": "https://books.google.com/books/content?id=wXiZxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-04-10"
+    },
+    {
+        "title": "The ancient central Andes",
+        "author": "Quilter, Jeffrey, 1949- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991824567504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "F2229 .Q55 2022",
+        "cover-url": "https://books.google.com/books/content?id=ubW8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-04-10"
+    },
+    {
+        "title": "The violence project : how to stop a mass shooting epidemic",
+        "author": "Peterson, Jillian, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821766104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HV6536.5 .P484 2022",
+        "cover-url": "https://books.google.com/books/content?id=d33qzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-03-29"
+    },
+    {
+        "title": "Thebes : the forgotten city of ancient Greece",
+        "author": "Cartledge, Paul, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821765904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "DF261.T3 C37 2022",
+        "cover-url": "https://books.google.com/books/content?id=12DqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-03-29"
+    },
+    {
+        "title": "Unprotected : a memoir",
+        "author": "Porter, Billy, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991810865604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN2287.P5718 A3 2021",
+        "cover-url": "https://books.google.com/books/content?id=b3M6zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-03-29"
+    },
+    {
         "title": "Braiding sweetgrass",
         "author": "Kimmerer, Robin Wall, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991665599704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -13,14 +53,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821767604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PS3607.A9857 I53 2022",
         "cover-url": "https://books.google.com/books/content?id=d77QzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-03-27"
-    },
-    {
-        "title": "Pattern and flow : a golden age of American decorated paper, 1960s to 2000s",
-        "author": "Dubansky, Mindell, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821767204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "Z271.3.M37 D83 2022",
-        "cover-url": "https://books.google.com/books/content?id=ahwGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-03-27"
     },
     {
@@ -77,6 +109,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821062104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT520 .N3523 2022",
         "cover-url": "https://books.google.com/books/content?id=npkNswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-03-22"
+    },
+    {
+        "title": "Pattern magic : stretch fabrics",
+        "author": "Nakamichi, Tomoko.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821061904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT520 .N353 2022",
+        "cover-url": "https://books.google.com/books/content?id=bOAtYAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-03-22"
     },
     {
@@ -205,14 +245,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821062004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT520 .N35 2021",
         "cover-url": "https://books.google.com/books/content?id=1x2TRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-03-21"
-    },
-    {
-        "title": "Pattern magic 3",
-        "author": "Nakamichi, Tomoko, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821062104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT520 .N3523 2022",
-        "cover-url": "https://books.google.com/books/content?id=npkNswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-03-21"
     },
     {
@@ -360,14 +392,6 @@
         "created": "2023-03-20"
     },
     {
-        "title": "Audrey Hepburn : the illustrated world of a fashion icon",
-        "author": "Hess, Megan (Fashion illustrator), author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821066404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PN2287.H43 H47 2022",
-        "cover-url": "https://books.google.com/books/content?id=xJ3pzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-03-20"
-    },
-    {
         "title": "Beyond the garden : designing home landscapes with natural systems",
         "author": "Davidsen, Dana, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991821066304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -462,21 +486,5 @@
         "call-number": "GV942.7.A1 B46 2022",
         "cover-url": "https://books.google.com/books/content?id=hdPtzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-03-20"
-    },
-    {
-        "title": "Building with a positive footprint : workbook",
-        "author": "Meulen, Vincent van der, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991820165604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NA2542.36 .M48 2022",
-        "cover-url": "https://books.google.com/books/content?id=ly9rzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-03-14"
-    },
-    {
-        "title": "Design and solidarity : conversations on collective futures",
-        "author": "Segal, Rafi, interviewer.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991820165804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NK1520 .J34 2023",
-        "cover-url": "https://books.google.com/books/content?id=p1rJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-03-14"
     }
 ]
