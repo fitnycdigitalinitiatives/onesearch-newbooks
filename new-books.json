@@ -100,7 +100,15 @@
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000938540204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GT525 .B42 2001",
-        "cover-url": "https://books.google.com/books/content?id=_VCoswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=wMrmN_q3XV0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-04-24"
+    },
+    {
+        "title": "Native American fashion : modern adaptations of traditional designs",
+        "author": "Wood, Margaret, 1950-",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991768068504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "E98.C8 W66",
+        "cover-url": "https://books.google.com/books/content?id=EQMaAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-04-24"
     },
     {
@@ -118,29 +126,5 @@
         "call-number": "E99.P9 V574 2002",
         "cover-url": "https://books.google.com/books/content?id=uSDJswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-04-24"
-    },
-    {
-        "title": "Rihanna and the clothes she wears",
-        "author": "Newman, Terry (Fashion journalist), author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991825462704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT507 .N49 2023",
-        "cover-url": "https://books.google.com/books/content?id=H3l1zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-04-17"
-    },
-    {
-        "title": "Sculpting light : 500 lamps",
-        "author": "Toromanoff, Agata, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991825462504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NK2115.5.L5 T67 2023",
-        "cover-url": "https://books.google.com/books/content?id=VL50zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-04-17"
-    },
-    {
-        "title": "Urban oasis : parks & projects for a  greener future",
-        "author": "Jungbauer, Jessica.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991825462604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "SB481 .J86 2023",
-        "cover-url": "https://books.google.com/books/content?id=2s5_zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-04-17"
     }
 ]
