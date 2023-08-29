@@ -1,10 +1,90 @@
 [
     {
+        "title": "Chanel",
+        "author": "Koda, Harold.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001047610204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT502 .C464 2005",
+        "cover-url": "https://books.google.com/books/content?id=LQ-Yuan-IzcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-08-28"
+    },
+    {
+        "title": "Great book of Celtic patterns",
+        "author": "Irish, Lora S.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843466904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK1264 .I75 2007",
+        "cover-url": "https://books.google.com/books/content?id=Ads-vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-28"
+    },
+    {
+        "title": "Sustainable fashion and textiles : design journeys",
+        "author": "Fletcher, Kate, 1971- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001438890204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT507 .F583 2014",
+        "cover-url": "https://books.google.com/books/content?id=8i9fngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-28"
+    },
+    {
+        "title": "Do museums still need objects?",
+        "author": "Conn, Steven.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001290750204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM11 .C63 2010",
+        "cover-url": "https://books.google.com/books/content?id=cdp9mAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-27"
+    },
+    {
+        "title": "Graphic design history : a critical guide",
+        "author": "Drucker, Johanna, 1952- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991796567404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC998 .D78 2013",
+        "cover-url": "https://books.google.com/books/content?id=f83KygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-27"
+    },
+    {
+        "title": "Museum materialities : objects, engagements, interpretations",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843767604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM7 .M8723 2010",
+        "cover-url": "https://books.google.com/books/content?id=Kp1QPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-27"
+    },
+    {
+        "title": "So you want to work in a museum?",
+        "author": "Young, Tara Reddy, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991839963404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM11 .Y68 2019",
+        "cover-url": "https://books.google.com/books/content?id=I0PrwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-27"
+    },
+    {
+        "title": "The participatory museum",
+        "author": "Simon, Nina, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001496580204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM7 .S56 2010",
+        "cover-url": "https://books.google.com/books/content?id=qun060HUcOcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-08-27"
+    },
+    {
+        "title": "International encyclopedia of linguistics",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000062440204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "P29 .I58 1991",
+        "cover-url": "https://books.google.com/books/content?id=7SFXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Out to work : a history of wage-earning women in the United States",
+        "author": "Kessler-Harris, Alice, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001000120204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HD6095 .K449 2003",
+        "cover-url": "https://books.google.com/books/content?id=UOmCpB0wtjsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
         "title": "Encyclopedia of homosexuality",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000479930204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "HQ76.25 .E53 1990",
-        "cover-url": "https://books.google.com/books/content?id=ez1HAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=bJAYAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-08-17"
     },
     {
@@ -22,21 +102,5 @@
         "call-number": "SD409 .L4785 2022",
         "cover-url": "https://books.google.com/books/content?id=9yCpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2023-07-31"
-    },
-    {
-        "title": "Braiding sweetgrass for young adults : indigenous wisdom, scientific knowledge, and the teachings of plants",
-        "author": "Kimmerer, Robin Wall, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991819466804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "E98.P5 K56 2022",
-        "cover-url": "https://books.google.com/books/content?id=-O3DzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-07-26"
-    },
-    {
-        "title": "The language of trees : a rewilding of literature and landscape",
-        "author": "Holten, Katie, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991839961404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PN6071.T74 H65 2023",
-        "cover-url": "https://books.google.com/books/content?id=vDSREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-07-26"
     }
 ]
