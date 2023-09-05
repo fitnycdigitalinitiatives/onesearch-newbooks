@@ -1,5 +1,53 @@
 [
     {
+        "title": "Icons and their history",
+        "author": "Rice, David Talbot, 1903-1972.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000212750204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N8187 .R52 1974",
+        "cover-url": "https://books.google.com/books/content?id=nL-fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-31"
+    },
+    {
+        "title": "The Oxford English Dictionary",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000477830204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PE1625 .O87 1989",
+        "cover-url": "https://books.google.com/books/content?id=ePJiwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-31"
+    },
+    {
+        "title": "Diego Rivera's America",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843464804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "ND259.R5 A4 2022",
+        "cover-url": "https://books.google.com/books/content?id=ptGAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-08-30"
+    },
+    {
+        "title": "Fashion-ology : fashion studies in the postmodern digital era",
+        "author": "Kawamura, Yuniya, 1963- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843665104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT519 .K38 2023",
+        "cover-url": "https://books.google.com/books/content?id=-Y-tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-30"
+    },
+    {
+        "title": "Nancy Spero : \u0153uvres sur papier",
+        "author": "Spero, Nancy, 1926-2009.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843464604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N6537.S648 A4 2010",
+        "cover-url": "https://books.google.com/books/content?id=j3GHFGUsmX4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-29"
+    },
+    {
+        "title": "Remarkable trees of the world",
+        "author": "Pakenham, Thomas, 1933- author, photographer.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000997480204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "SD383 .P367 2002",
+        "cover-url": "https://books.google.com/books/content?id=BorJEu3WIOoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-08-29"
+    },
+    {
         "title": "Chanel",
         "author": "Koda, Harold.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001047610204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -94,13 +142,5 @@
         "call-number": "E77 .H25",
         "cover-url": "https://books.google.com/books/content?id=Bld_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-08-09"
-    },
-    {
-        "title": "Mini-forest revolution : using the Miyawaki method to rapidly rewild the world",
-        "author": "Lewis, Hannah, 1974- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991839958504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "SD409 .L4785 2022",
-        "cover-url": "https://books.google.com/books/content?id=9yCpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2023-07-31"
     }
 ]
