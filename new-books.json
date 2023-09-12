@@ -1,5 +1,21 @@
 [
     {
+        "title": "First American art : the Charles and Valerie Diker collection of American Indian art",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991842963304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "E98.A7 F54 2004",
+        "cover-url": "https://books.google.com/books/content?id=I7zawAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-09-01"
+    },
+    {
+        "title": "The genius of birds",
+        "author": "Ackerman, Jennifer, 1959- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991842963504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "QL698.3 .A285 2016",
+        "cover-url": "https://books.google.com/books/content?id=sD7TCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2023-09-01"
+    },
+    {
         "title": "Icons and their history",
         "author": "Rice, David Talbot, 1903-1972.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000212750204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -112,11 +128,67 @@
         "created": "2023-08-27"
     },
     {
+        "title": "Basic condition reporting : a handbook",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843666404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM139 .B38 2022",
+        "cover-url": "https://books.google.com/books/content?id=RdaZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Change is required : preparing for the post-pandemic museum",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843666804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM7 .C478 2022",
+        "cover-url": "https://books.google.com/books/content?id=u-72zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Ebony G. Patterson : ...while the dew is still on the roses...",
+        "author": "Patterson, Ebony G., 1981- artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843667604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N6611.P38 A4 2019",
+        "cover-url": "https://books.google.com/books/content?id=JkqREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "From small wins to sweeping change : working together to foster equity, inclusion, and antiracism in museums",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843667004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM11 .F66 2022",
+        "cover-url": "https://books.google.com/books/content?id=tXHqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
         "title": "International encyclopedia of linguistics",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000062440204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "P29 .I58 1991",
-        "cover-url": "https://books.google.com/books/content?id=7SFXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=iCFXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Making dinosaurs dance : a toolkit for digital design in museums",
+        "author": "Joseph, Barry, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843666504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM7 .J67 2023",
+        "cover-url": "https://books.google.com/books/content?id=V4tVzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Museum education for today's audiences : meeting expectations with new models",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843667204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM7 .M863 2022",
+        "cover-url": "https://books.google.com/books/content?id=ADSRzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Museum finance : issues, challenges, and successes",
+        "author": "Alexander, Brian, 1951- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843666704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM122 .A63 2023",
+        "cover-url": "https://books.google.com/books/content?id=qD5gzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-08-23"
     },
     {
@@ -128,19 +200,35 @@
         "created": "2023-08-23"
     },
     {
+        "title": "Storytelling in museums",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843666604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM7 .S77 2022",
+        "cover-url": "https://books.google.com/books/content?id=xN3vzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "The many faces of art forgery : from the dark side to shades of gray",
+        "author": "Casement, William, 1947- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843667104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N8790 .C374 2022",
+        "cover-url": "https://books.google.com/books/content?id=Jd9-zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
+        "title": "Writing for museums : communicating and connecting with all your audiences",
+        "author": "Wallace, Margot A., 1941- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991843666904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AM125 .W35 2022",
+        "cover-url": "https://books.google.com/books/content?id=g30WzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2023-08-23"
+    },
+    {
         "title": "Encyclopedia of homosexuality",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000479930204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "HQ76.25 .E53 1990",
-        "cover-url": "https://books.google.com/books/content?id=bJAYAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=ez1HAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2023-08-17"
-    },
-    {
-        "title": "Handbook of North American Indians",
-        "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000179240204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "E77 .H25",
-        "cover-url": "https://books.google.com/books/content?id=Bld_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2023-08-09"
     }
 ]
