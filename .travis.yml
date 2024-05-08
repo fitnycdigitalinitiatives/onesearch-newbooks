@@ -12,7 +12,6 @@ script:
   python alma-new-books.py
 deploy:
   provider: pages
-  edge: true # opt in to dpl v2
   local_dir: gh-pages
   cleanup: false
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
