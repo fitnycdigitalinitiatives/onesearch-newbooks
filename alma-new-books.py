@@ -17,6 +17,7 @@ path = (
 params = {"apikey": api_key, "path": path, "limit": "200", "col_names": "true"}
 url = base_url + "?" + urllib.parse.urlencode(params)
 
+
 # function to lookup Google Books API by ISBN
 def isbn_lookup(ISBNs):
     for ISBN in ISBNs.split("; "):
@@ -28,7 +29,7 @@ def isbn_lookup(ISBNs):
             + "&fields=totalItems,items/id,items/volumeInfo(title,description,previewLink,imageLinks)&maxResults=1"
         )
         with urllib.request.urlopen(gb_url) as gb_response:
-            #sleep
+            # sleep
             time.sleep(0.7)
             gb_api = gb_response.read()
             gb_json_data = json.loads(gb_api)
@@ -77,6 +78,7 @@ with urllib.request.urlopen(url) as response:
 
         if formatted_record["cover-url"] != "":
             formatted_records.append(formatted_record)
+            print(json.dumps(formatted_record))
 
     filename = "gh-pages/new-books.json"
     with open(filename, "w") as outfile:
