@@ -1,19 +1,27 @@
 [
     {
+        "title": "Dark Matter.",
+        "author": "Crouch, Blake.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991879366504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3603.R68 D37 2024",
+        "cover-url": "https://books.google.com/books/content?id=PLIBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-05-13"
+    },
+    {
+        "title": "A court of silver flames",
+        "author": "Maas, Sarah J., author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991878967304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PZ7.M111575 Cs 2022",
+        "cover-url": "https://books.google.com/books/content?id=yQXHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-05-10"
+    },
+    {
         "title": "Designing a knitwear collection : from inspiration to finished garments",
         "author": "Donofrio-Ferrezza, Lisa, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001578450204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT690 .D66 2017",
         "cover-url": "https://books.google.com/books/content?id=5F-xDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2024-05-10"
-    },
-    {
-        "title": "A flicker in the dark",
-        "author": "Willingham, Stacy, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991877366804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3623.I57726 F57 2022",
-        "cover-url": "https://books.google.com/books/content?id=QtEuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-05-07"
     },
     {
         "title": "Beautiful world, where are you",
@@ -29,6 +37,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991877366604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PS3608.A78368 B57 2023",
         "cover-url": "https://books.google.com/books/content?id=IEyhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-05-07"
+    },
+    {
+        "title": "On the digital humanities : essays and provocations",
+        "author": "Ramsay, Stephen, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991876965004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "AZ105 .R36 2023",
+        "cover-url": "https://books.google.com/books/content?id=ysS6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-05-07"
     },
     {
@@ -56,12 +72,60 @@
         "created": "2024-05-07"
     },
     {
+        "title": "The familiar",
+        "author": "Bardugo, Leigh, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991877367504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3602.A775325 F36 2024",
+        "cover-url": "https://books.google.com/books/content?id=6rHXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-05-07"
+    },
+    {
         "title": "Thirst : a novel",
         "author": "Yuszczuk, Marina, 1978- author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991877367304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PQ7798.435.U89 S4313 2024",
         "cover-url": "https://books.google.com/books/content?id=-17DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2024-05-07"
+    },
+    {
+        "title": "The bluest eye : a novel",
+        "author": "Morrison, Toni, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001545030204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3563.O8749 B55 2007",
+        "cover-url": "https://books.google.com/books/content?id=ANKODQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-05-06"
+    },
+    {
+        "title": "Data grab : the new colonialism of big tech and how to fight back",
+        "author": "Mejias, Ulises Ali, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HD9696.8.A2 M455 2024",
+        "cover-url": "https://books.google.com/books/content?id=5RX3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-04-30"
+    },
+    {
+        "title": "Prompt : socially engaging objects and environments",
+        "author": "Glass, Tamie, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NA2542.4 .G53 2018",
+        "cover-url": "https://books.google.com/books/content?id=pRN3tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-04-29"
+    },
+    {
+        "title": "Visual delight in architecture : daylight, vision and view",
+        "author": "Heschong, Lisa, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NA2794 .H47 2021",
+        "cover-url": "https://books.google.com/books/content?id=1PwJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-04-29"
+    },
+    {
+        "title": "Working reclaimed wood : a guide for woodworkers, makers & designers",
+        "author": "Liberman, Yoav, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT194 .L53 2018",
+        "cover-url": "https://books.google.com/books/content?id=AKxPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-04-29"
     },
     {
         "title": "Landmarks : eighteen wonders of the New York world",
