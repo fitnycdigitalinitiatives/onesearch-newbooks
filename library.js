@@ -173,22 +173,25 @@ function createCarousel() {
                 owl.owlCarousel({
                     margin: 30,
                     loop: false,
-                    // autoWidth: true,
                     nav: false,
                     dots: false,
                     responsive: {
                         0: {
-                            items: 2
+                            items: 2,
+                            slideBy: 2
                         },
                         420: {
-                            items: 3
+                            items: 3,
+                            slideBy: 3
                         },
-                        576: { items: 4 },
+                        576: { items: 4, slideBy: 4 },
                         700: {
-                            items: 5
+                            items: 5,
+                            slideBy: 5
                         },
                         1025: {
-                            items: 6
+                            items: 6,
+                            slideBy: 6
                         }
                     }
                 });
