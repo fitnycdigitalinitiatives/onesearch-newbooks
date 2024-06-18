@@ -49,36 +49,39 @@ with urllib.request.urlopen(url) as response:
     dict = xmltodict.parse(xml)
     records = dict["report"]["QueryResult"]["ResultXml"]["rowset"]["Row"]
     formatted_records = []
+    unique_ids = []
     for record in records:
-        formatted_record = {
-            "title": "",
-            "author": "",
-            "onesearch-url": "",
-            "call-number": "",
-            "cover-url": "",
-            "created": "",
-        }
-        if "Column5" in record:
-            formatted_record["title"] = record["Column5"].replace("/", "").rstrip()
-        if "Column1" in record:
-            formatted_record["author"] = record["Column1"]
-        if "Column4" in record:
-            formatted_record["onesearch-url"] = (
-                "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma"
-                + record["Column4"]
-                + "&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en"
-            )
-        if "Column6" in record:
-            formatted_record["call-number"] = record["Column6"]
-        if "Column2" in record and record["Column2"]:
-            ISBNs = record["Column2"]
-            formatted_record["cover-url"] = isbn_lookup(ISBNs)
-        if "Column7" in record:
-            formatted_record["created"] = record["Column7"]
+        if record["Column4"] not in unique_ids:
+            unique_ids.append(record["Column4"])
+            formatted_record = {
+                "title": "",
+                "author": "",
+                "onesearch-url": "",
+                "call-number": "",
+                "cover-url": "",
+                "created": "",
+            }
+            if "Column5" in record:
+                formatted_record["title"] = record["Column5"].replace("/", "").rstrip()
+            if "Column1" in record:
+                formatted_record["author"] = record["Column1"]
+            if "Column4" in record:
+                formatted_record["onesearch-url"] = (
+                    "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma"
+                    + record["Column4"]
+                    + "&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en"
+                )
+            if "Column6" in record:
+                formatted_record["call-number"] = record["Column6"]
+            if "Column2" in record and record["Column2"]:
+                ISBNs = record["Column2"]
+                formatted_record["cover-url"] = isbn_lookup(ISBNs)
+            if "Column7" in record:
+                formatted_record["created"] = record["Column7"]
 
-        if formatted_record["cover-url"] != "":
-            formatted_records.append(formatted_record)
-            print(json.dumps(formatted_record))
+            if formatted_record["cover-url"] != "":
+                formatted_records.append(formatted_record)
+                print(json.dumps(formatted_record))
 
     filename = "gh-pages/new-books.json"
     with open(filename, "w") as outfile:
