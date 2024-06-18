@@ -1,5 +1,13 @@
 [
     {
+        "title": "Living in Rome",
+        "author": "Racine, Bruno, 1951-",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991886866704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "DG806.2 .R33 1999",
+        "cover-url": "https://books.google.com/books/content?id=aX6gAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-06-17"
+    },
+    {
         "title": "Hot girl crochet : 15 easy crochet projects from bags to bikinis",
         "author": "Svane, Rose, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991883865904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -94,37 +102,5 @@
         "call-number": "PS3608.O623 I85 2022",
         "cover-url": "https://books.google.com/books/content?id=CMeVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2024-05-21"
-    },
-    {
-        "title": "BUSN : introduction to business",
-        "author": "Kelly, Marcella, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991879563004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HD31 .K447 2022",
-        "cover-url": "https://books.google.com/books/content?id=xSixzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-05-15"
-    },
-    {
-        "title": "Mythology : timeless tales of gods and heroes",
-        "author": "Hamilton, Edith, 1867-1963.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001548870204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "BL310 .H3 2011",
-        "cover-url": "https://books.google.com/books/content?id=LcduswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-05-15"
-    },
-    {
-        "title": "You should be so lucky : a novel",
-        "author": "Sebastian, Cat, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991879366104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3619.E2594 Y68 2024",
-        "cover-url": "https://books.google.com/books/content?id=oZoZ0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-05-15"
-    },
-    {
-        "title": "Dark Matter.",
-        "author": "Crouch, Blake.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991879366504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3603.R68 D37 2024",
-        "cover-url": "https://books.google.com/books/content?id=PLIBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-05-13"
     }
 ]
