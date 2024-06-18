@@ -29,3 +29,51 @@
   position: relative;
   top: -1px;
 }
+
+.btn.rounded-circle i {
+  width: 16px;
+  height: 16px;
+}
+
+#previous.btn.rounded-circle i {
+  padding-right: 2px;
+}
+
+#next.btn.rounded-circle i {
+  padding-left: 2px;
+}
+
+.btn-green {
+  background-color: #12c477;
+  border-color: #12c477;
+  color: #000000;
+  box-shadow: none;
+}
+
+.btn-green.disabled,
+.btn:disabled {
+  background-color: #12c477;
+  border-color: #12c477;
+  color: #000000;
+  opacity: 50%;
+}
+
+.btn-green:not(:disabled):not(.disabled):hover {
+  background-color: #000000;
+  border-color: #000000;
+  color: #fff;
+}
+
+
+.btn-green:not(:disabled):not(.disabled).active,
+.btn-green:not(:disabled):not(.disabled):active,
+.show>.btn-green.dropdown-toggle {
+  background-color: #000000;
+  border-color: #000000;
+  color: #fff;
+}
+
+.btn-green.focus,
+.btn-green:focus {
+  box-shadow: none;
+}
