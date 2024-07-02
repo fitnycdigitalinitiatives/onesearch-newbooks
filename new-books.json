@@ -1,5 +1,13 @@
 [
     {
+        "title": "Designing with type : the essential guide to typography",
+        "author": "Craig, James, 1930-",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001319160204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "Z246 .C69 2006",
+        "cover-url": "https://books.google.com/books/content?id=wp7PHCpHegAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-07-01"
+    },
+    {
         "title": "Roy Lichtenstein : conversations with surrealism.",
         "author": "Lichtenstein, Roy, 1923-1997.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001558890204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -312,6 +320,14 @@
         "created": "2024-05-07"
     },
     {
+        "title": "Listen for the lie",
+        "author": "Tintera, Amy, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991877367204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3620.I557 L57 2024",
+        "cover-url": "https://books.google.com/books/content?id=XMHQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-05-07"
+    },
+    {
         "title": "On the digital humanities : essays and provocations",
         "author": "Ramsay, Stephen, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991876965004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -416,14 +432,6 @@
         "created": "2024-05-06"
     },
     {
-        "title": "Ralph Lauren : a way of living : home, lifestyles, inspiration",
-        "author": "Lauren, Ralph, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991876966204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT505.L38 L38 2023",
-        "cover-url": "https://books.google.com/books/content?id=VtmvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-05-06"
-    },
-    {
         "title": "Self-care for Latinas : 100+ ways to prioritize & rejuvenate your mind, body, & spirit",
         "author": "Reichard, Raquel, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991876967204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -510,189 +518,5 @@
         "call-number": "N43 .B454 2024",
         "cover-url": "https://books.google.com/books/content?id=p2QT0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-05-06"
-    },
-    {
-        "title": "Data grab : the new colonialism of big tech and how to fight back",
-        "author": "Mejias, Ulises Ali, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HD9696.8.A2 M455 2024",
-        "cover-url": "https://books.google.com/books/content?id=5RX3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-30"
-    },
-    {
-        "title": "Everything at once : postmodernity 1967-1992",
-        "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991868766304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NX456.5.P66 E94 2023",
-        "cover-url": "https://books.google.com/books/content?id=CPMB0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-30"
-    },
-    {
-        "title": "The secret lives of booksellers and librarians : true stories of the magic of reading",
-        "author": "Patterson, James, 1947- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "Z720.A4 P388 2024",
-        "cover-url": "https://books.google.com/books/content?id=WXMT0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-30"
-    },
-    {
-        "title": "A philosophy of walking",
-        "author": "Gros, Fr\u00e9d\u00e9ric, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "B105.W25 G7613 2023",
-        "cover-url": "https://books.google.com/books/content?id=_c2UEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Eileen",
-        "author": "Moshfegh, Ottessa, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875462904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3613.O77936 E37 2016",
-        "cover-url": "https://books.google.com/books/content?id=AKqvDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Eitheror",
-        "author": "Batuman, Elif, 1977- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3602.A9237 E37 2023",
-        "cover-url": "https://books.google.com/books/content?id=yG6vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Everyone who is gone is here : the United States, Central America, and the making of a crisis",
-        "author": "Blitzer, Jonathan, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875464404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "JV6483 .B58 2024",
-        "cover-url": "https://books.google.com/books/content?id=tWa8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "I feel bad about my neck : and other thoughts on being a woman",
-        "author": "Ephron, Nora, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3555.P5 I23 2008",
-        "cover-url": "https://books.google.com/books/content?id=rbbw0rPr3EoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Ilium",
-        "author": "Carpenter, Lea, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875464204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3603.A7698 I55 2024",
-        "cover-url": "https://books.google.com/books/content?id=lci5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Infinite jest : a novel",
-        "author": "Wallace, David Foster, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3573.A425635 I54 2016",
-        "cover-url": "https://books.google.com/books/content?id=Xx1uvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Prompt : socially engaging objects and environments",
-        "author": "Glass, Tamie, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NA2542.4 .G53 2018",
-        "cover-url": "https://books.google.com/books/content?id=pRN3tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Purple hibiscus : a novel",
-        "author": "Adichie, Chimamanda Ngozi, 1977-",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PR9387.9.A34354 P87 2012",
-        "cover-url": "https://books.google.com/books/content?id=g-kBBBPhaZ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Shoes",
-        "author": "Breta\u00f1a, Raissa, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875362004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "GT2130 .B677 2021",
-        "cover-url": "https://books.google.com/books/content?id=swePEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "The Irascibles : painters against the museum, New York, 1950",
-        "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875362104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "ND212.5.A25 I73 2020",
-        "cover-url": "https://books.google.com/books/content?id=fABrzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "The crossing",
-        "author": "McCarthy, Cormac, 1933-2023, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875464104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3563.C337 C7 1995",
-        "cover-url": "https://books.google.com/books/content?id=B96JDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "The persuaders : at the front lines of the fight for hearts, minds, and democracy",
-        "author": "Giridharadas, Anand.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875465704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "JK1726 .G56 2023",
-        "cover-url": "https://books.google.com/books/content?id=ar_BEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "The road",
-        "author": "McCarthy, Cormac, 1933-2023, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3563.C337 R63 2006",
-        "cover-url": "https://books.google.com/books/content?id=53aMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Trust",
-        "author": "D\u00edaz, Hern\u00e1n, 1973- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875462704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3604.I17 T78 2023",
-        "cover-url": "https://books.google.com/books/content?id=QyiwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Visual delight in architecture : daylight, vision and view",
-        "author": "Heschong, Lisa, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NA2794 .H47 2021",
-        "cover-url": "https://books.google.com/books/content?id=1PwJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "War and peace",
-        "author": "Tolstoy, Leo, graf, 1828-1910.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PG3366 .V6 2008b",
-        "cover-url": "https://books.google.com/books/content?id=bL3VlijouIwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "White cat, black dog : stories",
-        "author": "Link, Kelly, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875463604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3612.I553 W48 2023",
-        "cover-url": "https://books.google.com/books/content?id=Gtx5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "Working reclaimed wood : a guide for woodworkers, makers & designers",
-        "author": "Liberman, Yoav, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT194 .L53 2018",
-        "cover-url": "https://books.google.com/books/content?id=AKxPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
-    },
-    {
-        "title": "You are an artist : assignments to spark creation",
-        "author": "Green, Sarah Urist, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991875361904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "N7430 .G678 2020",
-        "cover-url": "https://books.google.com/books/content?id=jOTcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-04-29"
     }
 ]
