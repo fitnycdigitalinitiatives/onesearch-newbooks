@@ -44,6 +44,7 @@ def isbn_lookup(ISBNs):
     return ""
 
 
+# loop through results
 with urllib.request.urlopen(url) as response:
     xml = response.read()
     dict = xmltodict.parse(xml)
