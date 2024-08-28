@@ -12,8 +12,7 @@ script:
   python alma-new-books.py
 deploy:
   provider: pages
-  edge: 
-    branch: v2.0.5-beta
+  edge: true
   local_dir: gh-pages
   cleanup: false
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
