@@ -1,5 +1,109 @@
 [
     {
+        "title": "Verity",
+        "author": "Hoover, Colleen.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916967604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3608.O623 V47 2021",
+        "cover-url": "https://books.google.com/books/content?id=WwimzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-09"
+    },
+    {
+        "title": "Charles and Ray Eames",
+        "author": "Eames, Charles.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916467404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK2439.E28 A4 2020",
+        "cover-url": "https://books.google.com/books/content?id=5JnIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-04"
+    },
+    {
+        "title": "Charlotte Perriand",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916467504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK2550.P47 A4 2020",
+        "cover-url": "https://books.google.com/books/content?id=Xi_JzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-04"
+    },
+    {
+        "title": "Eileen Gray",
+        "author": "Gray, Eileen, 1878-1976, designer.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916467604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK2542.G73 A4 2020",
+        "cover-url": "https://books.google.com/books/content?id=zSXRzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-04"
+    },
+    {
+        "title": "Giorgio Morandi : works, writings and interviews",
+        "author": "Wilkin, Karen, 1940- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916467304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N6923.M6 W55 2020",
+        "cover-url": "https://books.google.com/books/content?id=K_7HzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-04"
+    },
+    {
+        "title": "Good dogs : canine companions in art and illustration",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916467204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N7668.D6 G66 2024",
+        "cover-url": "https://books.google.com/books/content?id=PVaP0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-04"
+    },
+    {
+        "title": "Designing bags : typology, construction techniques & patternmaking from scratch",
+        "author": "Cigna, Elisa.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991916167504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT667 .C49 2024",
+        "cover-url": "https://books.google.com/books/content?id=QAQR0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-03"
+    },
+    {
+        "title": "Fashion design : a guide to the industry and the creative process",
+        "author": "Antoine, Denis, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712799804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT507 .A722 2020",
+        "cover-url": "https://books.google.com/books/content?id=RXZQxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-02"
+    },
+    {
+        "title": "Lee Alexander McQueen : the illustrated world of a fashion visionary",
+        "author": "Rasmussen, Tom, 1991- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991915366904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT505.M37 R372 2024",
+        "cover-url": "https://books.google.com/books/content?id=rLv9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-12-02"
+    },
+    {
+        "title": "The black Atlantic : modernity and double consciousness",
+        "author": "Gilroy, Paul, 1956-",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991915367504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "CB235 .G55 1993",
+        "cover-url": "https://books.google.com/books/content?id=49dE4qerQzIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-12-02"
+    },
+    {
+        "title": "Art & design hotels",
+        "author": "Pless, Corynne, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913965804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NA7800 .P57 2024",
+        "cover-url": "https://books.google.com/books/content?id=zecn0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-27"
+    },
+    {
+        "title": "Cut the world awake",
+        "author": "Beirendonck, Walter van.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913965904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N6973 .B424 2024",
+        "cover-url": "https://books.google.com/books/content?id=2NCy0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-27"
+    },
+    {
+        "title": "Midnight moment : a decade of artists in Times Square",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N7433.84.U6 N5 2024",
+        "cover-url": "https://books.google.com/books/content?id=SgWv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-27"
+    },
+    {
         "title": "The Oxford companion to the Supreme Court of the United States",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000673820204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -16,11 +120,123 @@
         "created": "2024-11-26"
     },
     {
+        "title": "Adornment : what self-decoration tells us about who we are",
+        "author": "Davies, Stephen, 1950- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GN418 .D38 2020",
+        "cover-url": "https://books.google.com/books/content?id=t6EyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "American independent cinema : an introduction",
+        "author": "Tzioumakis, Yannis, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913967204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN1993.5.U6 T956 2017",
+        "cover-url": "https://books.google.com/books/content?id=rOYcuBQhZPoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Cutting along the color line : black barbers and barber shops in America",
+        "author": "Mills, Quincy T., 1975- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913967004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HD8039.B32 U647 2013",
+        "cover-url": "https://books.google.com/books/content?id=QtrijwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Exile & pride : disability, queerness, and liberation",
+        "author": "Clare, Eli, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991910467304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HQ77.9 .C56 2015",
+        "cover-url": "https://books.google.com/books/content?id=rnvsrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Huntsman : redefining Savile Row",
+        "author": "Chamberlin, Tom.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT580 .C52 2024",
+        "cover-url": "https://books.google.com/books/content?id=RK2N0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
         "title": "J.J. Pizzuto's fabric science swatch kit",
         "author": "Johnson, Ingrid, 1951- author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001628690204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TS1765 .C64 2016",
         "cover-url": "https://books.google.com/books/content?id=mfdaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Looking for Lorraine : the radiant and radical life of Lorraine Hansberry",
+        "author": "Perry, Imani, 1972- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913967104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3515.A515 Z84 2018",
+        "cover-url": "https://books.google.com/books/content?id=a1NqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Modern rustic : contemporary variations on a timeless style",
+        "author": "Santos Quartino, Daniela.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913967504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK1986.R8 M634 2024",
+        "cover-url": "https://books.google.com/books/content?id=Ig5c0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Olafur Eliasson : experience",
+        "author": "\u00d3lafur El\u00edasson, 1967- artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "N7053.O43 A4 2022",
+        "cover-url": "https://books.google.com/books/content?id=Wu0lzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Perfection : 400 years of women's quest for beauty",
+        "author": "Lincoln, Margarette, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT2340 .L56 2024",
+        "cover-url": "https://books.google.com/books/content?id=u_EdEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Soulful stitch : finding creativity in crisis",
+        "author": "Holmes, Cas, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT751 .H64 2024",
+        "cover-url": "https://books.google.com/books/content?id=Wrv9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Tattooing in contemporary society : identity and authenticity",
+        "author": "Rees, Michael, 1982- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913967404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT2345 .R44 2022",
+        "cover-url": "https://books.google.com/books/content?id=eZiKzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "The employee advantage : how putting workers first helps businesses thrive",
+        "author": "Meier, Stephan, 1972- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HF5549.5.R58 M56 2024",
+        "cover-url": "https://books.google.com/books/content?id=G4eD0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "The financial activist playbook : 8 strategies for everyday people to reclaim wealth and collective well-being",
+        "author": "Rashid, Jasmine, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HG179.5 .R37 2024",
+        "cover-url": "https://books.google.com/books/content?id=R5Fn0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-26"
+    },
+    {
+        "title": "Vexy thing : on gender and liberation",
+        "author": "Perry, Imani, 1972- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913966804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GN479.6 .P47 2018",
+        "cover-url": "https://books.google.com/books/content?id=MntxswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-11-26"
     },
     {
@@ -53,6 +269,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991912564004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "HD6055 .K73 2023",
         "cover-url": "https://books.google.com/books/content?id=0bmHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2024-11-25"
+    },
+    {
+        "title": "Design : the leading hotels of the world",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991912564804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NA7800 .D475 2024",
+        "cover-url": "https://books.google.com/books/content?id=Jmqv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-11-25"
     },
     {
@@ -112,6 +336,14 @@
         "created": "2024-11-25"
     },
     {
+        "title": "Sybil and David Yurman : artists and jewelers",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991912564704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NK7398.Y87 S93 2024",
+        "cover-url": "https://books.google.com/books/content?id=SgOv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2024-11-25"
+    },
+    {
         "title": "The Barbie chronicles",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913566004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -164,7 +396,7 @@
         "author": "Capon, Edmund.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991913467204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "N7343 .C35 1977",
-        "cover-url": "https://books.google.com/books/content?id=0btPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover-url": "https://books.google.com/books/content?id=AMyfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-11-21"
     },
     {
@@ -400,7 +632,7 @@
         "created": "2024-11-19"
     },
     {
-        "title": "Denim : the fabric that built America",
+        "title": "Denim : the fabric that built America 1935-1944",
         "author": "Marsh, Graham, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991911766204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "GT2085 .M377 2024",
@@ -440,7 +672,7 @@
         "created": "2024-11-19"
     },
     {
-        "title": "Glamour: An Extraordinary History : 85 Years of Women Breaking Boundaries",
+        "title": "Glamour: an extraordinary history : 85 years of women breaking boundaries",
         "author": "Pearlman, Natasha, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991911766104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "TT500.G46 P43 2024",
@@ -557,14 +789,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991912067604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PR625 .R44",
         "cover-url": "https://books.google.com/books/content?id=dNWegwx8kd8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-18"
-    },
-    {
-        "title": "Under the skin : a political thriller",
-        "author": "Hahn, Nick.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991911867304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3608.A36 U53 2013",
-        "cover-url": "https://books.google.com/books/content?id=yNSyngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-11-18"
     },
     {
@@ -798,157 +1022,5 @@
         "call-number": "N4015.G72 L67 1987",
         "cover-url": "https://books.google.com/books/content?id=hKUzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2024-11-11"
-    },
-    {
-        "title": "Giambologna : the complete sculpture",
-        "author": "Avery, Charles (Art historian)",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NB623.G53 A4 1987",
-        "cover-url": "https://books.google.com/books/content?id=24TqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Handbook, the Guggenheim Museum collection, 1900-1980",
-        "author": "Solomon R. Guggenheim Museum.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909067504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "N6487.N4 S643 1980",
-        "cover-url": "https://books.google.com/books/content?id=EKBZK-ooBJcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Lamentation 911",
-        "author": "Doctorow, E. L., 1931-2015.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909067204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HV6432.7 .D63 2002",
-        "cover-url": "https://books.google.com/books/content?id=64_aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "More money than God : hedge funds and the making of a new elite",
-        "author": "Mallaby, Sebastian.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HG4530 .M249 2010",
-        "cover-url": "https://books.google.com/books/content?id=08uEngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Our New York",
-        "author": "Kazin, Alfred, 1915-1998.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "F128.55 .K38 1989",
-        "cover-url": "https://books.google.com/books/content?id=TFQXAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Plantation homes of Louisiana and the Natchez area",
-        "author": "Gleason, David K., author, photographer.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909067104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "F370 .G56 1982",
-        "cover-url": "https://books.google.com/books/content?id=KDRi9ZxzoAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Privilege and prejudice : the life of a black pioneer",
-        "author": "Wharton, Clifton R., 1926- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909065604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "E185.97.W58 A3 2015",
-        "cover-url": "https://books.google.com/books/content?id=RtiNrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Searching for Schindler : a memoir",
-        "author": "Keneally, Thomas.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PR9619.3.K46 Z46 2008",
-        "cover-url": "https://books.google.com/books/content?id=rQchAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "The Tibetan book of living and dying",
-        "author": "Sogyal, Rinpoche.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "BQ7640 .S64 2002",
-        "cover-url": "https://books.google.com/books/content?id=iw3BL7WWjRkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "The art and politics of Arthur Szyk",
-        "author": "Luckert, Steven.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909065304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "ND3039.S98 A4 2002",
-        "cover-url": "https://books.google.com/books/content?id=OwnrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "The devil's playground",
-        "author": "Goldin, Nan, 1953-",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TR655 .G66 2003",
-        "cover-url": "https://books.google.com/books/content?id=EBaKQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "The geography of genius : a search for the world's most creative places from ancient Athens to Silicon Valley",
-        "author": "Weiner, Eric, 1963-",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "BF412 .W395 2016",
-        "cover-url": "https://books.google.com/books/content?id=88hNCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "The snowball : Warren Buffett and the business of life",
-        "author": "Schroeder, Alice, 1956- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909066104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HG172.B84 S37 2008",
-        "cover-url": "https://books.google.com/books/content?id=atqJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Truman Capote : the story of his bizarre and exotic boyhood by an aunt who helped raise him",
-        "author": "Rudisill, Marie.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909065504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3505.A59 Z87 1983",
-        "cover-url": "https://books.google.com/books/content?id=N1xaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "What money can't buy : the moral limits of markets",
-        "author": "Sandel, Michael J., author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991909065004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HB72 .S255 2012",
-        "cover-url": "https://books.google.com/books/content?id=ZCZY0KmuQSwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-11"
-    },
-    {
-        "title": "Design meets disability",
-        "author": "Pullin, Graham, 1964-",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001416550204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NK1110 .P85 2009",
-        "cover-url": "https://books.google.com/books/content?id=_IKkv7afYmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-08"
-    },
-    {
-        "title": "A handbook of graphic reproduction processes : a technical guide including processes for art collectors and dealers, librarians, booksellers, publishers, artists, graphic designers and the printing trade",
-        "author": "Brunner, Felix, 1929-",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991908366704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "NE850 .B7 1975x",
-        "cover-url": "https://books.google.com/books/content?id=KHMyAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2024-11-07"
-    },
-    {
-        "title": "A life in secrets : Vera Atkins and the missing agents of WWII",
-        "author": "Helm, Sarah.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991908367304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "D810.S8 A86 2005",
-        "cover-url": "https://books.google.com/books/content?id=mhP68ucJ5FkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-07"
-    },
-    {
-        "title": "Berkshire beyond Buffett : the enduring value of values",
-        "author": "Cunningham, Lawrence A., 1962-",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991908367004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HG4930 .C86 2014",
-        "cover-url": "https://books.google.com/books/content?id=MVMZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2024-11-07"
     }
 ]
