@@ -1,11 +1,51 @@
 [
     {
+        "title": "A pocket style manual",
+        "author": "Hacker, Diana, 1942-2004.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990001429040204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PE1408 .H26 2012",
+        "cover-url": "https://books.google.com/books/content?id=XPlsOdSN-q4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2025-08-18"
+    },
+    {
+        "title": "Just start : take action, embrace uncertainty, create the future",
+        "author": "Schlesinger, Leonard A.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991918767604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HF5386 .S386 2012",
+        "cover-url": "https://books.google.com/books/content?id=H3g_4TpRWw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2025-08-18"
+    },
+    {
+        "title": "Macroeconomics : principles, problems, and policies",
+        "author": "McConnell, Campbell R., author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991974784304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "HB172.5 .M3743 2018",
+        "cover-url": "https://books.google.com/books/content?id=jfQDMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-08-18"
+    },
+    {
+        "title": "Moderation",
+        "author": "Castillo, Elaine, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991973584904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3603.A8754 M63 2025",
+        "cover-url": "https://books.google.com/books/content?id=O043EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2025-08-13"
+    },
+    {
         "title": "Not quite dead yet : a novel",
         "author": "Jackson, Holly, 1992- author",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991972385104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PS3610.A35174 N68 2025",
         "cover-url": "https://books.google.com/books/content?id=JTBGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2025-08-11"
+    },
+    {
+        "title": "Patterns of fashion 1 : the content, cut, construction and context of Englishwomen's dress c.1720-1860",
+        "author": "Arnold, Janet, 1932-1998, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991969071404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "TT504 .A76 2021",
+        "cover-url": "https://books.google.com/books/content?id=a8zIzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-31"
     },
     {
         "title": "Sounds like love",
@@ -56,6 +96,14 @@
         "created": "2025-07-28"
     },
     {
+        "title": "In universes : a novel",
+        "author": "North, Emet, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991970278804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PS3614.O77566 I5 2024",
+        "cover-url": "https://books.google.com/books/content?id=FdIW0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-28"
+    },
+    {
         "title": "One yellow eye",
         "author": "Radford, Leigh, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991970278604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -77,14 +125,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991970278204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PS3613.O8455 G57 2025",
         "cover-url": "https://books.google.com/books/content?id=ze4jEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2025-07-28"
-    },
-    {
-        "title": "The view from Lake Como : a novel",
-        "author": "Trigiani, Adriana, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991970278704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3570.R459 V54 2025",
-        "cover-url": "https://books.google.com/books/content?id=fKkrEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2025-07-28"
     },
     {
@@ -112,12 +152,60 @@
         "created": "2025-07-24"
     },
     {
+        "title": "Fashionable folks : hairstyles 1840-1900",
+        "author": "Taylor, Maureen Alice, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991969077104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "GT2295.U5 T39 2009",
+        "cover-url": "https://books.google.com/books/content?id=4-zwRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-24"
+    },
+    {
+        "title": "Feeding ghosts : a graphic memoir",
+        "author": "Hulls, Tessa, 1984- author, artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991969077204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "E184.C5 H8596 2024",
+        "cover-url": "https://books.google.com/books/content?id=BtDbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-24"
+    },
+    {
+        "title": "The adventure zone : the suffering game",
+        "author": "McElroy, Clint, 1955- author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991968976704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6727.M3457 A382 2024",
+        "cover-url": "https://books.google.com/books/content?id=AdrUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-24"
+    },
+    {
         "title": "The costumes of Hollywood : highlights from the Collection of Motion Picture Costume Design",
         "author": "Scott, Coleen (Designer), author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991969076304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "PN1995.9.C56 S376 2025",
         "cover-url": "https://books.google.com/books/content?id=TiAF0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "created": "2025-07-24"
+    },
+    {
+        "title": "The phantom twin",
+        "author": "Brown, Lisa, 1972- author, artist.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991969077004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PN6727.B75765 P453 2020",
+        "cover-url": "https://books.google.com/books/content?id=7MamwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-24"
+    },
+    {
+        "title": "Empire of AI : dreams and nightmares in Sam Altman's OpenAI",
+        "author": "Hao, Karen, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991969077604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "Q334.7 .H36 2025",
+        "cover-url": "https://books.google.com/books/content?id=Oqo4EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "created": "2025-07-23"
+    },
+    {
+        "title": "Mabuhay!",
+        "author": "Sterling, Zack, author, illustrator.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991968976904829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PZ7.7.S744 Mab 2023",
+        "cover-url": "https://books.google.com/books/content?id=RYpMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2025-07-23"
     },
     {
         "title": "Encyclopedia of games",
@@ -134,53 +222,5 @@
         "call-number": "PS3618.I79 H68 2022",
         "cover-url": "https://books.google.com/books/content?id=hKVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2025-07-21"
-    },
-    {
-        "title": "American denim : the supposed final days and resurgence of a manufacturing icon",
-        "author": "Sharkey, Matt.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991968978504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TS1324.N6 S537 2025",
-        "cover-url": "https://books.google.com/books/content?id=JE5KEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2025-07-17"
-    },
-    {
-        "title": "Chooch helped",
-        "author": "Rogers, Andrea L., author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991967977204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PZ7.1.R645 Ch 2024",
-        "cover-url": "https://books.google.com/books/content?id=I8xA0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2025-07-17"
-    },
-    {
-        "title": "Don't let him in",
-        "author": "Jewell, Lisa, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991967776604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PR6060.E95 D66 2025",
-        "cover-url": "https://books.google.com/books/content?id=ZdIoEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2025-07-17"
-    },
-    {
-        "title": "Wild dark shore",
-        "author": "McConaghy, Charlotte, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991968278804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PR9619.4.M3798 W55 2025",
-        "cover-url": "https://books.google.com/books/content?id=Cvz_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2025-07-17"
-    },
-    {
-        "title": "Punch needle fashion : 15 punch needle projects for crafting accessories and wearables",
-        "author": "Clasper-Torch, Micah, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991967977604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT840.P8 C537 2025",
-        "cover-url": "https://books.google.com/books/content?id=YUji0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2025-07-16"
-    },
-    {
-        "title": "The costumes of burlesque : 1866-2018",
-        "author": "Scott, Coleen (Designer), author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991967978004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PN2067 .S33 2019",
-        "cover-url": "https://books.google.com/books/content?id=282FvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2025-07-16"
     }
 ]
