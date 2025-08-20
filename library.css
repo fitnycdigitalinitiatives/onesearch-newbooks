@@ -46,7 +46,7 @@
 
 @media (min-width: 700px) {
     #search-container #searchTab .nav-button {
-        padding: .5rem 1rem;
+        padding: .5rem .75rem;
         font-size: 1rem;
     }
 }
