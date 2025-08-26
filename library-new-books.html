@@ -57,9 +57,9 @@
                                         aria-controls="researchguides" aria-selected="false">Research Guides</button>
                                 </li>
 
-                                <li class="nav-item" role="presentation"><button id="ir-tab" class="nav-button"
-                                        role="tab" type="button" data-target="#ir" aria-controls="ir"
-                                        aria-selected="false">Institutional Repository</button></li>
+                                <li class="nav-item" role="presentation"><button id="sitesearch-tab" class="nav-button"
+                                        role="tab" type="button" data-target="#sitesearch" aria-controls="sitesearch"
+                                        aria-selected="false">Site Search</button></li>
                             </ul>
                         </div>
 
@@ -150,13 +150,12 @@
                                 </form>
                             </div>
 
-                            <div id="ir" class="tab-pane" role="tabpanel" aria-labelledby="ir-tab">
-                                <form action="https://institutionalrepository.fitnyc.edu/search" method="get" name="ir">
+                            <div id="sitesearch" class="tab-pane" role="tabpanel" aria-labelledby="sitesearch-tab">
+                                <form action="/academics/library/search/" method="get" name="sitesearch">
 
                                     <div class="input-group"><input class="onesearch-form" name="q" type="text"
-                                            placeholder="Search the FIT Institutional Repository for student work, theses, etc."
-                                            aria-label="Search the FIT Institutional Repository for student work, theses, etc."
-                                            aria-describedby="ir-tab">
+                                            placeholder="Search the Library website"
+                                            aria-label="Search the Library website" aria-describedby="sitesearch-tab">
                                         <button class="submit-button" type="submit"> <span class="fa fa-search"
                                                 title="Search"></span> <span class="sr-only">Search</span> </button>
                                     </div>
