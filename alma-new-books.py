@@ -4,7 +4,6 @@ import urllib.parse
 import urllib.request
 import os
 import xmltodict
-import pprint
 import json
 import time
 
@@ -63,7 +62,8 @@ with urllib.request.urlopen(url) as response:
                 "created": "",
             }
             if "Column5" in record:
-                formatted_record["title"] = record["Column5"].replace("/", "").rstrip()
+                formatted_record["title"] = record["Column5"].replace(
+                    "/", "").rstrip()
             if "Column1" in record:
                 formatted_record["author"] = record["Column1"]
             if "Column4" in record:
@@ -82,8 +82,7 @@ with urllib.request.urlopen(url) as response:
 
             if formatted_record["cover-url"] != "":
                 formatted_records.append(formatted_record)
-                print(json.dumps(formatted_record))
 
-    filename = "gh-pages/new-books.json"
+    filename = "new-books.json"
     with open(filename, "w") as outfile:
         json.dump(formatted_records, outfile, indent=4)
