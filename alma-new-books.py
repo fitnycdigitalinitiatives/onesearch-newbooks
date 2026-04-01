@@ -6,6 +6,7 @@ import os
 import xmltodict
 import json
 import time
+from datetime import datetime
 
 base_url = "https://api-na.hosted.exlibrisgroup.com/almaws/v1/analytics/reports"
 api_key = os.environ["API_KEY"]
@@ -91,3 +92,10 @@ with urllib.request.urlopen(url) as response:
     filename = "new-books.json"
     with open(filename, "w") as outfile:
         json.dump(formatted_records, outfile, indent=4)
+
+timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+filename = f"action-log.txt"
+file_content = f"This action was last run {timestamp}."
+
+with open(filename, 'w') as f:
+    f.write(file_content)
