@@ -168,14 +168,6 @@
         "created": "2026-05-12"
     },
     {
-        "title": "It rhymes with Takei",
-        "author": "Takei, George, 1937- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992050971004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "HQ75.8.T35 A3 2025",
-        "cover-url": "https://books.google.com/books/content?id=1M_60AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2026-05-12"
-    },
-    {
         "title": "The art of living : reflections on mindfulness and the overexamined life",
         "author": "Snider, Grant, author, artist.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992050970704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -237,6 +229,14 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992049069604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "HQ1219 .C85 2026 v.6",
         "cover-url": "https://books.google.com/books/content?id=p43HEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2026-05-06"
+    },
+    {
+        "title": "Blotter : the untold story of an acid medium",
+        "author": "Davis, Erik, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992048970204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC1883.4 .D38 2023",
+        "cover-url": "https://books.google.com/books/content?id=rPyxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2026-05-06"
     }
 ]
