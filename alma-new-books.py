@@ -28,19 +28,22 @@ def isbn_lookup(ISBNs):
             + ISBN
             + "&fields=totalItems,items/id,items/volumeInfo(title,description,previewLink,imageLinks)&maxResults=1"
         )
-        with urllib.request.urlopen(gb_url) as gb_response:
-            # sleep
-            time.sleep(0.7)
-            gb_api = gb_response.read()
-            gb_json_data = json.loads(gb_api)
-            if "items" in gb_json_data:
-                try:
-                    thumbnail = gb_json_data["items"][0]["volumeInfo"]["imageLinks"][
-                        "thumbnail"
-                    ]
-                    return thumbnail.replace("http:", "https:")
-                except Exception as e:
-                    thumbnail = ""
+        try:
+            with urllib.request.urlopen(gb_url) as gb_response:
+                # sleep
+                time.sleep(0.7)
+                gb_api = gb_response.read()
+                gb_json_data = json.loads(gb_api)
+                if "items" in gb_json_data:
+                    try:
+                        thumbnail = gb_json_data["items"][0]["volumeInfo"]["imageLinks"][
+                            "thumbnail"
+                        ]
+                        return thumbnail.replace("http:", "https:")
+                    except Exception as e:
+                        thumbnail = ""
+        except Exception as e:
+            thumbnail = ""
     return ""
 
 
