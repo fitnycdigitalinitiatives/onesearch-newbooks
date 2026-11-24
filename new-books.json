@@ -1,11 +1,19 @@
 [
     {
-        "title": "The films of Michel Gondry",
-        "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992090880704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PN1998.3.G663 F55 2022",
-        "cover-url": "https://books.google.com/books/content?id=LiLFzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2026-11-10"
+        "title": "Notan; the dark-light principle of design",
+        "author": "Bothwell, Dorr.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000237050204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "NC703 .B67",
+        "cover-url": "https://books.google.com/books/content?id=Jpu0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2026-11-19"
+    },
+    {
+        "title": "Essential grammar for business : the foundation of good writing",
+        "author": "Jovin, Ellen, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992092180004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "PE1115 .J67 2019",
+        "cover-url": "https://books.google.com/books/content?id=M_7kwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2026-11-17"
     },
     {
         "title": "Well made in America : lessons from Harley-Davidson on being the best",
@@ -16,7 +24,7 @@
         "created": "2026-11-09"
     },
     {
-        "title": "Andy Warhol : the complete textiles and fashion",
+        "title": "Andy Warhol : the complete textiles & fashion",
         "author": "Mar\u00e9chal, Paul, 1965- compiler, author",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992089980504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NK8898.W37 A4 2026",
@@ -184,6 +192,14 @@
         "created": "2026-11-02"
     },
     {
+        "title": "Get a life : a roadmap to rule the world",
+        "author": "Fisch, Bob, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992085279404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "call-number": "BF697 .F57 2022",
+        "cover-url": "https://books.google.com/books/content?id=ZzpMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "created": "2026-10-29"
+    },
+    {
         "title": "Mathematics + art : a cultural history",
         "author": "Gamwell, Lynn, 1943- author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992085279104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -221,22 +237,6 @@
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma990000120060204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "call-number": "NK2406 .W53 1969",
         "cover-url": "https://books.google.com/books/content?id=wkzaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "created": "2026-10-28"
-    },
-    {
-        "title": "Hollywood, ending",
-        "author": "Green, John, 1977- author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992085280104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "PS3607.R432928 H65 2026",
-        "cover-url": "https://books.google.com/books/content?id=JgPNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-        "created": "2026-10-28"
-    },
-    {
-        "title": "LifeStyle",
-        "author": "Kim, Aki, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma992089380404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "call-number": "TT507 .K554 2026",
-        "cover-url": "https://books.google.com/books/content?id=KHwMEgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "created": "2026-10-28"
     }
 ]
